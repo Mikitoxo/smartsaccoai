@@ -135,7 +135,7 @@ if found_member is not None:
         loan_request = st.number_input(
             f"Enter Loan Amount (Limit: KES {max_eligible:,.0f})", 
             min_value=1000.0,
-            max_value=float(safe_max), # 🔒 STRICT LOCK
+            max_value=float(safe_max), 
             step=5000.0,
             key="loan_input",
             help="System strictly limits request to 3x Total Savings."
