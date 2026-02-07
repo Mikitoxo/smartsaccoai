@@ -1,0 +1,1001 @@
+member_id,first_name,last_name,email,months_active,total_savings,monthly_contribution,loan_amount_requested,credit_score,loan_type,repayment_period,guarantor_count,guarantor_avg_credit_score,has_defaulted_before,loan_status
+1,John,Aisha,john.aisha@gmail.com,46,2958532,2418,2496022,721,medical expenses,19,3,524,true,Rejected: Past Defaulter
+2,Wanjiku,Aisha,wanjiku.aisha@gmail.com,43,2982275,8192,884490,576,luxury vacations,11,4,581,false,Approved
+3,Kwame,Kwame,kwame.kwame@gmail.com,119,3023491,4354,1267793,680,home renovation,25,2,478,false,Approved
+4,Amina,Nia,amina.nia@gmail.com,12,2869417,1822,313251,666,charitable donations,27,1,583,true,Rejected: No Guarantors
+5,John,Sade,john.sade@gmail.com,85,3078411,2978,1855642,662,investing in stocks,33,6,583,false,Approved
+6,Mary,Aisha,mary.aisha@gmail.com,50,2861686,4136,1907308,676,buying a car,3,4,866,true,Rejected: Past Defaulter
+7,Mary,Zara,mary.zara@gmail.com,28,2954009,3118,2953531,638,investing in stocks,32,6,516,true,Rejected: Past Defaulter
+8,Wanjiku,Kwame,wanjiku.kwame@gmail.com,84,3070784,6985,1225047,608,charitable donations,31,3,687,true,Rejected: Past Defaulter
+9,Mary,Kwame,mary.kwame@gmail.com,71,2974872,9298,2987320,497,charitable donations,7,2,386,false,Rejected: Bad Guarantors
+10,John,Zara,john.zara@gmail.com,40,3111773,2238,1602914,593,investing in stocks,6,3,692,false,Approved
+11,Kwame,Obi,kwame.obi@gmail.com,102,3011768,4564,730740,753,luxury vacations,7,6,254,false,Rejected: Bad Guarantors
+12,Wanjiku,Simba,wanjiku.simba@gmail.com,58,2936931,2519,79288,857,charitable donations,26,2,604,false,Approved
+13,David,Laila,david.laila@gmail.com,14,2914451,3390,956970,731,medical expenses,7,4,453,true,Rejected: Past Defaulter
+14,Wanjiku,Zara,wanjiku.zara@gmail.com,11,2840266,4376,698075,713,investing in stocks,16,6,698,false,Approved
+15,David,Laila,david.laila@gmail.com,46,3000100,3557,2022114,709,buying a car,12,3,728,true,Rejected: Past Defaulter
+16,Wanjiku,Aisha,wanjiku.aisha@gmail.com,53,2969291,6272,537685,611,paying off debt,29,5,567,true,Rejected: Past Defaulter
+17,John,Chidi,john.chidi@gmail.com,11,3036257,4108,2022138,729,medical expenses,31,2,576,false,Approved
+18,Amina,Jabari,amina.jabari@gmail.com,88,2969457,5576,2502263,604,charitable donations,17,3,663,true,Rejected: Past Defaulter
+19,David,Simba,david.simba@gmail.com,94,3047131,9834,1919784,798,paying off debt,3,6,654,false,Approved
+20,David,Aisha,david.aisha@gmail.com,101,3019836,7271,1833351,455,travel expenses,34,6,624,false,Approved
+21,David,Obi,david.obi@gmail.com,109,2956205,5345,2731064,689,higher education,11,1,474,true,Rejected: No Guarantors
+22,Kwame,Kwame,kwame.kwame@gmail.com,74,2917900,4385,1504191,713,luxury vacations,10,2,688,true,Rejected: Past Defaulter
+23,David,Nia,david.nia@gmail.com,104,2783113,3990,14880,634,charitable donations,32,1,708,false,Rejected: No Guarantors
+24,John,Zara,john.zara@gmail.com,70,3138364,4001,1017556,608,medical expenses,8,3,607,false,Approved
+25,John,Simba,john.simba@gmail.com,14,3092493,7697,397405,676,home renovation,32,1,524,true,Rejected: No Guarantors
+26,Wanjiku,Laila,wanjiku.laila@gmail.com,7,3120291,4732,2800145,562,higher education,10,1,634,true,Rejected: No Guarantors
+27,Mary,Laila,mary.laila@gmail.com,79,3144610,6237,1420996,549,luxury vacations,11,3,711,false,Approved
+28,Amina,Aisha,amina.aisha@gmail.com,19,3068805,2280,2450016,766,medical expenses,8,3,423,false,Approved
+29,Mary,Jabari,mary.jabari@gmail.com,63,3102274,1370,28841,590,travel expenses,25,5,595,false,Approved
+30,Mary,Aisha,mary.aisha@gmail.com,110,3224693,8666,1386971,750,home renovation,22,2,257,false,Rejected: Bad Guarantors
+31,Kwame,Kwame,kwame.kwame@gmail.com,90,2841367,6559,2253272,520,paying off debt,30,6,573,true,Rejected: Past Defaulter
+32,Mary,Sade,mary.sade@gmail.com,81,2856280,3458,573644,645,luxury vacations,2,1,510,true,Rejected: No Guarantors
+33,John,Sade,john.sade@gmail.com,60,2947582,4875,532033,537,medical expenses,35,4,663,true,Rejected: Past Defaulter
+34,Mary,Chidi,mary.chidi@gmail.com,88,2892796,1361,1748855,671,travel expenses,32,4,480,false,Approved
+35,Kwame,Nia,kwame.nia@gmail.com,6,3062240,7780,2081083,672,buying a car,31,4,485,true,Rejected: Past Defaulter
+36,Kwame,Laila,kwame.laila@gmail.com,117,3035834,9242,1610024,763,buying a car,25,1,550,true,Rejected: No Guarantors
+37,David,Aisha,david.aisha@gmail.com,66,2826804,3927,1142624,492,luxury vacations,21,5,618,true,Rejected: Past Defaulter
+38,Wanjiku,Jabari,wanjiku.jabari@gmail.com,73,2813465,6352,58346,544,charitable donations,18,6,710,false,Approved
+39,David,Sade,david.sade@gmail.com,13,3013085,2126,532189,699,higher education,12,3,360,false,Rejected: Bad Guarantors
+40,David,Zara,david.zara@gmail.com,8,2805020,6612,2179039,635,travel expenses,34,5,829,true,Rejected: Past Defaulter
+41,John,Nia,john.nia@gmail.com,72,2950943,6449,145189,797,paying off debt,27,5,610,false,Approved
+42,Kwame,Simba,kwame.simba@gmail.com,39,3066445,6809,1474068,658,charitable donations,6,4,770,false,Approved
+43,Mary,Simba,mary.simba@gmail.com,79,3053210,7875,205229,448,medical expenses,18,5,493,false,Rejected: Poor Credit score
+44,Amina,Zara,amina.zara@gmail.com,103,3015692,3733,298226,350,higher education,22,2,753,true,Rejected: Past Defaulter
+45,Mary,Laila,mary.laila@gmail.com,25,2844716,7583,2529958,553,starting a business,29,3,708,true,Rejected: Past Defaulter
+46,Amina,Chidi,amina.chidi@gmail.com,43,3090755,7400,1890928,703,paying off debt,3,1,661,false,Rejected: No Guarantors
+47,Amina,Kwame,amina.kwame@gmail.com,36,3062961,7556,1899223,519,higher education,36,5,665,false,Approved
+48,David,Jabari,david.jabari@gmail.com,24,3011156,4696,380609,637,medical expenses,3,4,480,false,Approved
+49,John,Kwame,john.kwame@gmail.com,103,2900115,7365,2478812,867,travel expenses,6,6,251,true,Rejected: Bad Guarantors
+50,Wanjiku,Kwame,wanjiku.kwame@gmail.com,92,3062341,1521,2919764,498,starting a business,27,1,553,false,Rejected: No Guarantors
+51,David,Aisha,david.aisha@gmail.com,36,3058015,6827,2901143,722,higher education,21,4,736,false,Approved
+52,John,Simba,john.simba@gmail.com,50,3000306,9802,2085382,726,starting a business,35,2,624,true,Rejected: Past Defaulter
+53,David,Kwame,david.kwame@gmail.com,45,3062685,8529,1892966,550,investing in stocks,29,2,606,false,Approved
+54,John,Laila,john.laila@gmail.com,13,2960241,1199,1665399,637,investing in stocks,18,1,669,false,Rejected: No Guarantors
+55,Mary,Obi,mary.obi@gmail.com,55,3137358,8097,30200,693,buying a car,25,5,550,false,Approved
+56,Amina,Jabari,amina.jabari@gmail.com,107,2953422,9428,1455893,680,paying off debt,12,4,586,false,Approved
+57,Amina,Chidi,amina.chidi@gmail.com,70,2919411,5985,1563327,852,investing in stocks,34,6,558,false,Approved
+58,John,Laila,john.laila@gmail.com,15,3130751,6546,2665032,613,starting a business,34,4,648,true,Rejected: Past Defaulter
+59,Mary,Kwame,mary.kwame@gmail.com,38,3037105,5290,216505,724,investing in stocks,2,3,500,true,Rejected: Past Defaulter
+60,Mary,Kwame,mary.kwame@gmail.com,59,2900750,1348,566512,652,investing in stocks,1,1,723,false,Rejected: No Guarantors
+61,Kwame,Jabari,kwame.jabari@gmail.com,117,3023267,6249,635563,482,investing in stocks,26,6,941,true,Rejected: Past Defaulter
+62,John,Aisha,john.aisha@gmail.com,35,2934756,9620,1307705,534,investing in stocks,28,3,625,true,Rejected: Past Defaulter
+63,Wanjiku,Simba,wanjiku.simba@gmail.com,104,3167540,6807,647467,661,investing in stocks,25,5,657,false,Approved
+64,David,Nia,david.nia@gmail.com,95,2900542,9785,1716106,628,investing in stocks,30,1,559,true,Rejected: No Guarantors
+65,John,Zara,john.zara@gmail.com,43,2808711,6690,2476420,795,paying off debt,34,1,717,true,Rejected: No Guarantors
+66,Amina,Jabari,amina.jabari@gmail.com,40,2794759,1393,2037157,602,luxury vacations,2,6,515,false,Approved
+67,Wanjiku,Kwame,wanjiku.kwame@gmail.com,20,3004098,7726,700487,681,luxury vacations,32,6,545,false,Approved
+68,Amina,Laila,amina.laila@gmail.com,113,2861266,9354,544574,681,buying a car,27,6,557,true,Rejected: Past Defaulter
+69,Kwame,Kwame,kwame.kwame@gmail.com,92,2947232,7001,541371,614,starting a business,26,3,784,true,Rejected: Past Defaulter
+70,Amina,Chidi,amina.chidi@gmail.com,20,2886209,2769,1356386,663,buying a car,20,6,515,false,Approved
+71,Mary,Nia,mary.nia@gmail.com,28,2961515,1032,2664457,515,paying off debt,28,1,751,false,Rejected: No Guarantors
+72,Wanjiku,Jabari,wanjiku.jabari@gmail.com,89,2987414,3196,633728,615,paying off debt,5,4,516,false,Approved
+73,Wanjiku,Nia,wanjiku.nia@gmail.com,65,3107519,6096,2410703,782,home renovation,1,4,731,false,Approved
+74,Mary,Chidi,mary.chidi@gmail.com,108,2982832,8535,2883260,557,higher education,27,6,746,false,Approved
+75,Kwame,Simba,kwame.simba@gmail.com,23,2898161,9402,73981,689,starting a business,26,2,693,true,Rejected: Past Defaulter
+76,Kwame,Sade,kwame.sade@gmail.com,96,3161057,2626,461388,648,charitable donations,1,4,663,false,Approved
+77,John,Laila,john.laila@gmail.com,18,3094098,8780,2956515,733,travel expenses,19,1,546,false,Rejected: No Guarantors
+78,Wanjiku,Obi,wanjiku.obi@gmail.com,28,3006530,8731,2698944,679,starting a business,10,6,339,false,Rejected: Bad Guarantors
+79,Amina,Simba,amina.simba@gmail.com,17,2984866,5647,1293416,413,luxury vacations,6,5,794,true,Rejected: Past Defaulter
+80,Mary,Laila,mary.laila@gmail.com,35,3031725,6832,1365284,755,higher education,22,2,828,false,Approved
+81,Kwame,Zara,kwame.zara@gmail.com,102,3123882,9843,2183459,748,travel expenses,31,1,559,true,Rejected: No Guarantors
+82,Wanjiku,Aisha,wanjiku.aisha@gmail.com,67,3111913,5216,1323683,656,medical expenses,27,1,519,false,Rejected: No Guarantors
+83,Wanjiku,Jabari,wanjiku.jabari@gmail.com,88,2999487,4519,884558,606,investing in stocks,18,4,466,true,Rejected: Past Defaulter
+84,John,Obi,john.obi@gmail.com,17,3120876,1908,1411832,679,higher education,10,5,334,false,Rejected: Bad Guarantors
+85,Wanjiku,Chidi,wanjiku.chidi@gmail.com,72,2855567,7961,1461536,612,medical expenses,13,3,940,true,Rejected: Past Defaulter
+86,Amina,Simba,amina.simba@gmail.com,90,3017254,1560,851458,469,luxury vacations,21,4,762,false,Approved
+87,John,Jabari,john.jabari@gmail.com,39,3001634,9173,1849680,943,home renovation,1,5,656,false,Approved
+88,John,Obi,john.obi@gmail.com,104,2907461,5040,2803543,773,higher education,5,3,646,false,Approved
+89,David,Nia,david.nia@gmail.com,57,2970152,2641,2447112,893,home renovation,2,3,906,true,Rejected: Past Defaulter
+90,David,Simba,david.simba@gmail.com,14,3150830,1836,1199587,510,starting a business,23,5,559,false,Approved
+91,David,Sade,david.sade@gmail.com,10,3206928,4794,762395,577,starting a business,26,2,571,true,Rejected: Past Defaulter
+92,David,Aisha,david.aisha@gmail.com,37,2929105,1656,1570223,826,paying off debt,2,4,447,true,Rejected: Past Defaulter
+93,Amina,Simba,amina.simba@gmail.com,41,3064426,7730,2958043,614,investing in stocks,7,1,697,false,Rejected: No Guarantors
+94,Wanjiku,Aisha,wanjiku.aisha@gmail.com,9,3023528,3576,2658456,783,luxury vacations,26,5,546,false,Approved
+95,Kwame,Obi,kwame.obi@gmail.com,81,3215580,3748,1643357,869,buying a car,5,5,512,true,Rejected: Past Defaulter
+96,Wanjiku,Simba,wanjiku.simba@gmail.com,37,3016977,2591,77401,704,luxury vacations,27,6,604,false,Approved
+97,Wanjiku,Obi,wanjiku.obi@gmail.com,104,3000639,1715,2618584,598,investing in stocks,36,4,686,true,Rejected: Past Defaulter
+98,David,Zara,david.zara@gmail.com,55,3048945,8809,2336506,736,travel expenses,24,4,778,false,Approved
+99,Kwame,Obi,kwame.obi@gmail.com,10,3057500,5158,2396865,719,travel expenses,11,5,522,true,Rejected: Past Defaulter
+100,Wanjiku,Laila,wanjiku.laila@gmail.com,97,3110191,2870,1061977,658,starting a business,2,3,758,true,Rejected: Past Defaulter
+101,David,Jabari,david.jabari@gmail.com,115,3098341,6643,553710,613,paying off debt,27,1,604,true,Rejected: No Guarantors
+102,Wanjiku,Aisha,wanjiku.aisha@gmail.com,65,3034239,5025,100820,630,buying a car,32,2,477,true,Rejected: Past Defaulter
+103,Mary,Obi,mary.obi@gmail.com,85,2910530,7399,1733015,788,home renovation,7,4,763,true,Rejected: Past Defaulter
+104,Amina,Zara,amina.zara@gmail.com,73,2886018,2547,1295898,528,higher education,7,6,672,true,Rejected: Past Defaulter
+105,Mary,Aisha,mary.aisha@gmail.com,14,2931049,4182,24400,813,travel expenses,23,3,637,true,Rejected: Past Defaulter
+106,Kwame,Kwame,kwame.kwame@gmail.com,70,2995391,7936,2995590,643,higher education,15,2,757,false,Approved
+107,Amina,Nia,amina.nia@gmail.com,89,3067734,9843,650697,615,buying a car,5,5,718,true,Rejected: Past Defaulter
+108,John,Zara,john.zara@gmail.com,11,3139945,9859,776985,451,medical expenses,1,6,777,true,Rejected: Past Defaulter
+109,Wanjiku,Simba,wanjiku.simba@gmail.com,118,2995699,5546,1505189,516,charitable donations,34,3,605,true,Rejected: Past Defaulter
+110,Kwame,Jabari,kwame.jabari@gmail.com,61,2857198,3941,693801,686,buying a car,25,1,395,true,Rejected: No Guarantors
+111,Kwame,Kwame,kwame.kwame@gmail.com,87,2923112,6456,2019494,734,travel expenses,28,5,673,true,Rejected: Past Defaulter
+112,Wanjiku,Chidi,wanjiku.chidi@gmail.com,118,2845972,7305,2542831,663,travel expenses,25,1,735,false,Rejected: No Guarantors
+113,Kwame,Laila,kwame.laila@gmail.com,50,2980267,4307,2275173,527,travel expenses,5,1,385,true,Rejected: No Guarantors
+114,Amina,Nia,amina.nia@gmail.com,117,2850960,4912,1167084,567,travel expenses,10,3,662,false,Approved
+115,Wanjiku,Obi,wanjiku.obi@gmail.com,51,2929835,7382,666319,591,medical expenses,27,4,556,false,Approved
+116,Amina,Nia,amina.nia@gmail.com,74,2982773,4846,1824800,712,travel expenses,9,1,729,true,Rejected: No Guarantors
+117,David,Sade,david.sade@gmail.com,17,2977080,3109,1107110,683,luxury vacations,29,1,653,true,Rejected: No Guarantors
+118,John,Obi,john.obi@gmail.com,9,3030603,5338,623594,682,higher education,24,4,614,true,Rejected: Past Defaulter
+119,Mary,Nia,mary.nia@gmail.com,59,3019707,8347,1005076,569,higher education,13,2,290,true,Rejected: Bad Guarantors
+120,Kwame,Zara,kwame.zara@gmail.com,37,3028678,7850,2495472,433,luxury vacations,1,6,766,true,Rejected: Past Defaulter
+121,Mary,Zara,mary.zara@gmail.com,34,2980172,7528,1785836,685,charitable donations,26,5,593,true,Rejected: Past Defaulter
+122,Kwame,Obi,kwame.obi@gmail.com,52,3181033,4311,2996823,733,starting a business,17,1,595,false,Rejected: No Guarantors
+123,Amina,Chidi,amina.chidi@gmail.com,33,2970225,9214,440575,619,paying off debt,30,6,547,false,Approved
+124,David,Nia,david.nia@gmail.com,49,2920052,4720,2093593,647,travel expenses,24,5,527,false,Approved
+125,Amina,Zara,amina.zara@gmail.com,11,2955416,4010,32418,669,home renovation,6,2,736,false,Approved
+126,Kwame,Laila,kwame.laila@gmail.com,98,2983616,4014,228512,782,charitable donations,36,5,588,false,Approved
+127,Amina,Sade,amina.sade@gmail.com,76,3018505,8963,1520729,547,investing in stocks,17,2,473,false,Approved
+128,David,Zara,david.zara@gmail.com,117,2891860,2432,379021,678,buying a car,35,4,784,true,Rejected: Past Defaulter
+129,Kwame,Aisha,kwame.aisha@gmail.com,74,3029116,4323,2873774,354,higher education,21,2,538,false,Rejected: Poor Credit score
+130,Wanjiku,Chidi,wanjiku.chidi@gmail.com,119,2937024,4069,2458597,609,luxury vacations,30,2,1012,false,Approved
+131,Mary,Sade,mary.sade@gmail.com,82,2876340,5623,355046,605,home renovation,10,4,731,false,Approved
+132,John,Chidi,john.chidi@gmail.com,35,2980857,5642,2606552,636,home renovation,21,1,639,false,Rejected: No Guarantors
+133,Amina,Zara,amina.zara@gmail.com,62,2989107,4767,2728793,573,medical expenses,36,2,484,false,Approved
+134,David,Zara,david.zara@gmail.com,73,3120484,5341,1434595,509,buying a car,36,2,486,false,Approved
+135,Wanjiku,Zara,wanjiku.zara@gmail.com,29,3022757,8862,2461698,584,home renovation,13,4,445,false,Approved
+136,Kwame,Aisha,kwame.aisha@gmail.com,12,3218372,7135,490370,692,paying off debt,3,1,637,false,Rejected: No Guarantors
+137,Amina,Chidi,amina.chidi@gmail.com,111,2911840,5851,2687385,693,charitable donations,17,1,401,true,Rejected: No Guarantors
+138,David,Laila,david.laila@gmail.com,48,2976880,7806,407086,640,starting a business,6,2,911,false,Approved
+139,David,Sade,david.sade@gmail.com,82,3026284,5680,228253,516,home renovation,30,4,619,true,Rejected: Past Defaulter
+140,Mary,Nia,mary.nia@gmail.com,97,2946877,9220,2761178,629,luxury vacations,26,6,716,false,Approved
+141,Kwame,Chidi,kwame.chidi@gmail.com,109,2995763,3654,419438,648,investing in stocks,29,1,604,true,Rejected: No Guarantors
+142,Amina,Laila,amina.laila@gmail.com,26,2961921,5521,2432899,638,paying off debt,33,3,641,false,Approved
+143,Amina,Kwame,amina.kwame@gmail.com,107,2726968,6748,804161,648,investing in stocks,32,6,378,true,Rejected: Bad Guarantors
+144,Mary,Sade,mary.sade@gmail.com,64,3083654,3800,2659738,644,paying off debt,31,2,457,true,Rejected: Past Defaulter
+145,Wanjiku,Aisha,wanjiku.aisha@gmail.com,65,2946212,5058,216977,550,investing in stocks,34,5,499,false,Approved
+146,John,Jabari,john.jabari@gmail.com,100,3015859,8310,1235956,731,home renovation,23,4,393,true,Rejected: Bad Guarantors
+147,Kwame,Zara,kwame.zara@gmail.com,13,2936200,1269,1717663,606,buying a car,3,4,623,true,Rejected: Past Defaulter
+148,David,Obi,david.obi@gmail.com,62,3157049,5956,1019872,716,starting a business,26,2,408,false,Approved
+149,Kwame,Nia,kwame.nia@gmail.com,29,3023781,8333,2046426,458,paying off debt,13,6,337,true,Rejected: Bad Guarantors
+150,Wanjiku,Simba,wanjiku.simba@gmail.com,12,2801633,4363,2270089,515,luxury vacations,18,1,514,true,Rejected: No Guarantors
+151,John,Obi,john.obi@gmail.com,80,2953530,5107,1077475,566,travel expenses,28,5,474,true,Rejected: Past Defaulter
+152,Wanjiku,Chidi,wanjiku.chidi@gmail.com,35,3113347,8522,2716775,605,starting a business,15,1,695,false,Rejected: No Guarantors
+153,John,Nia,john.nia@gmail.com,54,2886782,1623,1079198,627,home renovation,3,4,714,true,Rejected: Past Defaulter
+154,Wanjiku,Zara,wanjiku.zara@gmail.com,49,2957902,7918,832081,665,medical expenses,4,2,857,false,Approved
+155,David,Aisha,david.aisha@gmail.com,91,3013431,9233,602739,775,travel expenses,20,6,523,false,Approved
+156,Amina,Jabari,amina.jabari@gmail.com,118,3151767,8934,451259,459,higher education,6,4,701,false,Approved
+157,David,Simba,david.simba@gmail.com,45,2944003,6291,2758403,622,buying a car,17,1,384,false,Rejected: No Guarantors
+158,David,Chidi,david.chidi@gmail.com,53,2993365,5665,645165,607,travel expenses,3,5,442,true,Rejected: Past Defaulter
+159,Amina,Obi,amina.obi@gmail.com,66,2981082,8882,2187284,746,starting a business,14,1,406,false,Rejected: No Guarantors
+160,John,Sade,john.sade@gmail.com,79,2864204,6575,1689631,648,medical expenses,6,3,642,false,Approved
+161,Kwame,Simba,kwame.simba@gmail.com,106,3047417,8132,2055694,817,starting a business,9,2,556,false,Approved
+162,Kwame,Sade,kwame.sade@gmail.com,81,3078398,4830,2824758,585,buying a car,19,5,595,true,Rejected: Past Defaulter
+163,Mary,Laila,mary.laila@gmail.com,77,3276100,7353,2867675,814,investing in stocks,6,2,723,false,Approved
+164,Mary,Laila,mary.laila@gmail.com,12,2936909,9478,763963,577,medical expenses,13,3,660,false,Approved
+165,Mary,Simba,mary.simba@gmail.com,66,3051206,5809,329121,675,higher education,26,6,645,true,Rejected: Past Defaulter
+166,John,Aisha,john.aisha@gmail.com,68,2867397,3167,663902,789,investing in stocks,14,5,697,true,Rejected: Past Defaulter
+167,Wanjiku,Zara,wanjiku.zara@gmail.com,98,3116637,4139,1391011,704,travel expenses,18,2,543,false,Approved
+168,David,Sade,david.sade@gmail.com,19,2981050,4464,1836098,657,home renovation,22,4,411,false,Approved
+169,Mary,Aisha,mary.aisha@gmail.com,73,2980596,3767,2262282,553,charitable donations,1,4,611,true,Rejected: Past Defaulter
+170,David,Nia,david.nia@gmail.com,97,3184550,1350,1142055,655,charitable donations,36,3,613,false,Approved
+171,Amina,Nia,amina.nia@gmail.com,62,2987625,3888,893937,494,travel expenses,30,2,698,false,Approved
+172,Wanjiku,Aisha,wanjiku.aisha@gmail.com,31,2902204,9280,1912520,746,buying a car,27,1,844,true,Rejected: No Guarantors
+173,Kwame,Simba,kwame.simba@gmail.com,94,2921624,8998,2618236,608,starting a business,20,4,435,false,Approved
+174,Amina,Jabari,amina.jabari@gmail.com,113,2859908,6966,2204345,601,travel expenses,21,6,551,false,Approved
+175,Wanjiku,Aisha,wanjiku.aisha@gmail.com,49,3024846,1907,2626595,794,home renovation,12,3,748,false,Approved
+176,David,Aisha,david.aisha@gmail.com,35,2855219,5615,1840437,486,medical expenses,19,5,626,false,Approved
+177,Mary,Kwame,mary.kwame@gmail.com,65,2805797,2861,1046720,697,paying off debt,19,1,496,false,Rejected: No Guarantors
+178,Amina,Obi,amina.obi@gmail.com,21,3111223,6045,2729553,669,luxury vacations,14,1,268,true,Rejected: No Guarantors
+179,Kwame,Kwame,kwame.kwame@gmail.com,112,3018167,5399,455639,618,paying off debt,22,2,561,true,Rejected: Past Defaulter
+180,David,Jabari,david.jabari@gmail.com,41,2965368,5784,2689561,648,charitable donations,21,3,661,true,Rejected: Past Defaulter
+181,Kwame,Nia,kwame.nia@gmail.com,115,3100609,3661,2017160,563,travel expenses,6,3,757,true,Rejected: Past Defaulter
+182,David,Obi,david.obi@gmail.com,90,2994912,7039,399135,749,travel expenses,6,6,490,false,Approved
+183,Amina,Simba,amina.simba@gmail.com,118,2802951,7011,2562997,703,medical expenses,25,4,697,false,Approved
+184,Amina,Laila,amina.laila@gmail.com,33,3190327,9158,2360404,656,charitable donations,22,4,390,false,Rejected: Bad Guarantors
+185,Kwame,Zara,kwame.zara@gmail.com,40,3006629,3652,325361,626,higher education,1,6,378,false,Rejected: Bad Guarantors
+186,David,Nia,david.nia@gmail.com,21,3036391,4622,999547,536,luxury vacations,13,3,782,false,Approved
+187,David,Simba,david.simba@gmail.com,30,3048060,8820,2031074,618,travel expenses,30,1,626,false,Rejected: No Guarantors
+188,Kwame,Chidi,kwame.chidi@gmail.com,103,2990627,5118,928229,622,paying off debt,19,3,622,false,Approved
+189,David,Aisha,david.aisha@gmail.com,19,3049015,3946,1693769,537,buying a car,26,6,567,false,Approved
+190,Mary,Obi,mary.obi@gmail.com,24,3232768,6385,396003,828,higher education,23,4,781,false,Approved
+191,Mary,Jabari,mary.jabari@gmail.com,88,3056991,6157,369959,520,medical expenses,28,5,505,true,Rejected: Past Defaulter
+192,Wanjiku,Aisha,wanjiku.aisha@gmail.com,98,3111749,2279,1140665,608,home renovation,35,2,784,false,Approved
+193,Mary,Zara,mary.zara@gmail.com,15,3021682,9207,754612,839,higher education,8,1,659,false,Rejected: No Guarantors
+194,John,Laila,john.laila@gmail.com,7,3018329,7470,2483579,854,home renovation,17,6,525,true,Rejected: Past Defaulter
+195,David,Sade,david.sade@gmail.com,114,3128998,9858,914955,634,paying off debt,20,1,567,false,Rejected: No Guarantors
+196,Wanjiku,Aisha,wanjiku.aisha@gmail.com,25,3120194,9729,2996674,608,travel expenses,10,4,702,false,Approved
+197,Amina,Obi,amina.obi@gmail.com,83,2927680,2957,2818270,728,investing in stocks,3,6,784,false,Approved
+198,John,Kwame,john.kwame@gmail.com,116,3071628,3139,1823838,669,luxury vacations,11,4,542,false,Approved
+199,Kwame,Jabari,kwame.jabari@gmail.com,53,2991184,9382,2093758,528,home renovation,16,2,683,true,Rejected: Past Defaulter
+200,John,Kwame,john.kwame@gmail.com,7,3071626,6375,27280,688,medical expenses,12,3,489,true,Rejected: Past Defaulter
+201,Mary,Kwame,mary.kwame@gmail.com,15,3086692,7699,1755617,625,luxury vacations,3,5,552,false,Approved
+202,Mary,Obi,mary.obi@gmail.com,106,2977659,2119,2743699,788,buying a car,25,4,646,true,Rejected: Past Defaulter
+203,Amina,Laila,amina.laila@gmail.com,82,2962331,9720,1668901,630,travel expenses,25,2,795,true,Rejected: Past Defaulter
+204,David,Nia,david.nia@gmail.com,86,3073696,9290,2216128,702,medical expenses,32,6,376,true,Rejected: Bad Guarantors
+205,Amina,Sade,amina.sade@gmail.com,54,3047498,8776,2626729,635,travel expenses,22,6,491,true,Rejected: Past Defaulter
+206,Amina,Nia,amina.nia@gmail.com,26,2913124,6174,1557227,668,home renovation,24,6,504,true,Rejected: Past Defaulter
+207,Amina,Simba,amina.simba@gmail.com,58,3038819,4061,1367022,620,paying off debt,17,4,560,false,Approved
+208,David,Obi,david.obi@gmail.com,119,2962106,4797,2737118,534,travel expenses,24,1,376,true,Rejected: No Guarantors
+209,Kwame,Sade,kwame.sade@gmail.com,49,3122202,9097,1025242,668,travel expenses,17,2,813,false,Approved
+210,David,Aisha,david.aisha@gmail.com,54,2839609,7408,84233,681,travel expenses,12,2,583,false,Approved
+211,John,Kwame,john.kwame@gmail.com,56,2882159,8375,1599313,663,medical expenses,12,2,530,true,Rejected: Past Defaulter
+212,Amina,Chidi,amina.chidi@gmail.com,61,2960340,9203,522988,719,higher education,15,3,577,false,Approved
+213,Kwame,Nia,kwame.nia@gmail.com,26,3074037,3774,748621,588,higher education,22,2,830,false,Approved
+214,John,Obi,john.obi@gmail.com,77,2948629,4789,132154,686,home renovation,14,1,702,true,Rejected: No Guarantors
+215,Kwame,Simba,kwame.simba@gmail.com,80,3002120,6184,1431450,783,higher education,33,2,314,false,Rejected: Bad Guarantors
+216,Wanjiku,Simba,wanjiku.simba@gmail.com,66,3194228,9222,1279179,670,paying off debt,21,2,764,true,Rejected: Past Defaulter
+217,John,Laila,john.laila@gmail.com,65,2974836,1339,2926991,659,higher education,5,1,447,true,Rejected: No Guarantors
+218,Kwame,Obi,kwame.obi@gmail.com,78,2910154,6667,2803741,593,paying off debt,22,2,355,true,Rejected: Bad Guarantors
+219,Amina,Zara,amina.zara@gmail.com,103,3038013,6011,1298083,532,medical expenses,11,5,635,false,Approved
+220,Amina,Jabari,amina.jabari@gmail.com,9,2852923,5834,144066,568,buying a car,25,2,659,true,Rejected: Past Defaulter
+221,Amina,Aisha,amina.aisha@gmail.com,14,2811330,6272,1019334,837,medical expenses,16,6,507,false,Approved
+222,Amina,Chidi,amina.chidi@gmail.com,44,2994367,4384,1818702,612,charitable donations,12,3,492,true,Rejected: Past Defaulter
+223,John,Jabari,john.jabari@gmail.com,27,3129864,3308,465651,519,home renovation,28,6,574,true,Rejected: Past Defaulter
+224,Kwame,Zara,kwame.zara@gmail.com,34,2972998,1470,94242,514,investing in stocks,32,4,470,false,Approved
+225,Mary,Nia,mary.nia@gmail.com,104,3140995,9798,2385263,700,paying off debt,9,5,573,true,Rejected: Past Defaulter
+226,David,Simba,david.simba@gmail.com,46,2969205,4458,115522,545,home renovation,32,2,537,true,Rejected: Past Defaulter
+227,David,Obi,david.obi@gmail.com,101,2843659,1631,2050977,646,luxury vacations,9,5,223,true,Rejected: Bad Guarantors
+228,Kwame,Chidi,kwame.chidi@gmail.com,20,2886652,9748,834239,739,higher education,21,4,313,false,Rejected: Bad Guarantors
+229,John,Kwame,john.kwame@gmail.com,105,2974479,5107,1334288,621,paying off debt,8,3,718,true,Rejected: Past Defaulter
+230,Mary,Chidi,mary.chidi@gmail.com,26,2878138,7846,2504156,797,investing in stocks,25,6,512,true,Rejected: Past Defaulter
+231,Kwame,Zara,kwame.zara@gmail.com,85,3125088,3505,2320132,694,travel expenses,29,6,363,true,Rejected: Bad Guarantors
+232,David,Zara,david.zara@gmail.com,115,2942416,2444,707976,591,buying a car,29,5,381,false,Rejected: Bad Guarantors
+233,Wanjiku,Jabari,wanjiku.jabari@gmail.com,21,3024630,2963,583300,726,higher education,5,1,618,true,Rejected: No Guarantors
+234,Kwame,Chidi,kwame.chidi@gmail.com,12,2949695,6273,535981,541,higher education,7,4,664,true,Rejected: Past Defaulter
+235,Wanjiku,Obi,wanjiku.obi@gmail.com,17,3068486,6662,193655,788,charitable donations,4,1,674,false,Rejected: No Guarantors
+236,Kwame,Simba,kwame.simba@gmail.com,73,3113543,8307,212323,652,medical expenses,14,4,508,false,Approved
+237,Kwame,Jabari,kwame.jabari@gmail.com,16,2964961,4275,350117,595,home renovation,19,4,504,false,Approved
+238,David,Obi,david.obi@gmail.com,32,2975061,3820,1615997,444,buying a car,22,6,648,false,Rejected: Poor Credit score
+239,John,Kwame,john.kwame@gmail.com,11,3122215,9153,382586,622,starting a business,8,4,648,false,Approved
+240,Wanjiku,Zara,wanjiku.zara@gmail.com,67,3079192,6231,2860095,676,travel expenses,2,3,512,true,Rejected: Past Defaulter
+241,Mary,Jabari,mary.jabari@gmail.com,70,2896132,8310,1335356,527,medical expenses,12,2,416,false,Approved
+242,Kwame,Sade,kwame.sade@gmail.com,56,2886012,5371,2117504,639,paying off debt,35,4,468,false,Approved
+243,John,Kwame,john.kwame@gmail.com,79,2946561,2225,1910091,645,paying off debt,28,5,649,true,Rejected: Past Defaulter
+244,Mary,Obi,mary.obi@gmail.com,43,3098170,8489,1376963,760,paying off debt,10,6,646,false,Approved
+245,Mary,Aisha,mary.aisha@gmail.com,22,3056141,1339,485352,821,paying off debt,11,5,105,false,Rejected: Bad Guarantors
+246,Wanjiku,Simba,wanjiku.simba@gmail.com,118,2987299,9660,2774425,560,charitable donations,15,4,452,true,Rejected: Past Defaulter
+247,Amina,Nia,amina.nia@gmail.com,97,2997572,9013,1386507,618,paying off debt,34,3,570,false,Approved
+248,David,Chidi,david.chidi@gmail.com,55,2752466,4009,2216144,698,investing in stocks,11,3,543,false,Approved
+249,Mary,Sade,mary.sade@gmail.com,77,3063002,8268,2458979,759,home renovation,17,4,566,true,Rejected: Past Defaulter
+250,David,Jabari,david.jabari@gmail.com,85,2834115,3576,384901,844,starting a business,10,6,813,true,Rejected: Past Defaulter
+251,Wanjiku,Simba,wanjiku.simba@gmail.com,84,2984216,8770,2106300,520,charitable donations,2,6,638,false,Approved
+252,John,Sade,john.sade@gmail.com,61,3150134,5415,539364,631,investing in stocks,2,2,577,false,Approved
+253,Wanjiku,Obi,wanjiku.obi@gmail.com,100,3064481,9503,2826107,572,starting a business,4,4,650,false,Approved
+254,Mary,Zara,mary.zara@gmail.com,28,3008652,1614,2190391,813,medical expenses,20,2,835,false,Approved
+255,John,Obi,john.obi@gmail.com,20,3066344,4019,681376,687,buying a car,12,3,782,false,Approved
+256,Kwame,Laila,kwame.laila@gmail.com,100,3114050,3373,124963,521,charitable donations,19,2,442,true,Rejected: Past Defaulter
+257,Mary,Obi,mary.obi@gmail.com,99,2882305,6523,53516,721,buying a car,24,1,689,true,Rejected: No Guarantors
+258,Kwame,Chidi,kwame.chidi@gmail.com,48,3052381,6071,2412077,737,investing in stocks,11,6,924,false,Approved
+259,Wanjiku,Zara,wanjiku.zara@gmail.com,96,3039232,9845,1365579,636,home renovation,33,4,352,true,Rejected: Bad Guarantors
+260,David,Jabari,david.jabari@gmail.com,75,3221526,7141,1384644,477,starting a business,3,3,545,true,Rejected: Past Defaulter
+261,Mary,Jabari,mary.jabari@gmail.com,106,3084465,5820,1544642,590,investing in stocks,12,6,508,false,Approved
+262,Amina,Chidi,amina.chidi@gmail.com,21,2914500,9052,1339844,702,home renovation,30,2,657,true,Rejected: Past Defaulter
+263,Amina,Nia,amina.nia@gmail.com,34,3064207,5100,290620,563,medical expenses,30,4,543,true,Rejected: Past Defaulter
+264,David,Kwame,david.kwame@gmail.com,16,2956894,8639,640235,627,luxury vacations,21,5,498,false,Approved
+265,John,Obi,john.obi@gmail.com,54,2812186,6160,373815,675,investing in stocks,14,4,594,false,Approved
+266,Kwame,Laila,kwame.laila@gmail.com,84,3010728,8057,1170775,730,home renovation,36,5,641,true,Rejected: Past Defaulter
+267,David,Aisha,david.aisha@gmail.com,69,3039968,4004,934526,687,investing in stocks,6,2,556,true,Rejected: Past Defaulter
+268,Amina,Obi,amina.obi@gmail.com,23,3101777,4209,1649480,612,charitable donations,17,5,810,true,Rejected: Past Defaulter
+269,Kwame,Obi,kwame.obi@gmail.com,107,2921116,7818,1907510,663,buying a car,19,4,653,false,Approved
+270,Amina,Laila,amina.laila@gmail.com,57,3120772,5037,1061563,703,travel expenses,36,2,701,false,Approved
+271,Amina,Nia,amina.nia@gmail.com,34,2769308,6887,2695653,746,higher education,5,3,566,false,Approved
+272,Wanjiku,Nia,wanjiku.nia@gmail.com,117,2937824,7134,2914381,653,starting a business,8,5,616,true,Rejected: Past Defaulter
+273,Wanjiku,Obi,wanjiku.obi@gmail.com,96,3163892,1975,2078166,636,medical expenses,36,4,467,false,Approved
+274,Wanjiku,Aisha,wanjiku.aisha@gmail.com,84,3076679,4594,835357,742,investing in stocks,18,4,671,false,Approved
+275,Kwame,Sade,kwame.sade@gmail.com,119,3118964,1504,517549,577,medical expenses,25,2,586,false,Approved
+276,Kwame,Aisha,kwame.aisha@gmail.com,19,3106262,5168,2082697,563,starting a business,1,4,368,false,Rejected: Bad Guarantors
+277,David,Chidi,david.chidi@gmail.com,83,3040931,4264,2725750,741,starting a business,26,1,475,false,Rejected: No Guarantors
+278,Wanjiku,Jabari,wanjiku.jabari@gmail.com,118,2905819,3333,809910,684,charitable donations,15,2,615,false,Approved
+279,Wanjiku,Kwame,wanjiku.kwame@gmail.com,92,3099999,4828,1655212,695,investing in stocks,27,2,974,true,Rejected: Past Defaulter
+280,Wanjiku,Sade,wanjiku.sade@gmail.com,15,2904467,8860,2298383,703,buying a car,33,6,480,true,Rejected: Past Defaulter
+281,Kwame,Sade,kwame.sade@gmail.com,19,3050229,6043,2892019,624,medical expenses,16,2,589,true,Rejected: Past Defaulter
+282,Amina,Kwame,amina.kwame@gmail.com,34,3001704,1040,2233024,491,paying off debt,25,2,685,false,Approved
+283,David,Chidi,david.chidi@gmail.com,23,2992620,1740,1187145,540,charitable donations,2,6,712,true,Rejected: Past Defaulter
+284,Mary,Jabari,mary.jabari@gmail.com,73,2981254,9823,1702594,459,starting a business,25,4,514,true,Rejected: Past Defaulter
+285,John,Jabari,john.jabari@gmail.com,72,2992489,2419,398313,572,charitable donations,36,5,646,false,Approved
+286,Mary,Nia,mary.nia@gmail.com,35,2977111,5296,1495050,794,charitable donations,28,2,539,true,Rejected: Past Defaulter
+287,Amina,Kwame,amina.kwame@gmail.com,93,2736475,7582,1932753,573,buying a car,3,4,754,true,Rejected: Past Defaulter
+288,David,Simba,david.simba@gmail.com,32,2929010,7968,304649,830,medical expenses,13,2,623,true,Rejected: Past Defaulter
+289,Mary,Kwame,mary.kwame@gmail.com,91,2869316,7996,1121455,596,buying a car,17,2,768,false,Approved
+290,David,Nia,david.nia@gmail.com,105,2888308,7946,488973,752,charitable donations,15,5,554,true,Rejected: Past Defaulter
+291,David,Laila,david.laila@gmail.com,86,3058117,5312,1292839,606,higher education,23,3,551,true,Rejected: Past Defaulter
+292,Wanjiku,Jabari,wanjiku.jabari@gmail.com,78,3147253,3617,1398128,724,paying off debt,16,4,490,true,Rejected: Past Defaulter
+293,David,Obi,david.obi@gmail.com,87,2868881,1408,2786558,699,luxury vacations,19,1,509,true,Rejected: No Guarantors
+294,John,Simba,john.simba@gmail.com,70,2977398,3036,2430725,643,luxury vacations,19,4,603,false,Approved
+295,David,Chidi,david.chidi@gmail.com,87,3019566,6222,1487512,551,charitable donations,33,2,157,false,Rejected: Bad Guarantors
+296,Amina,Kwame,amina.kwame@gmail.com,45,3076289,9109,672588,694,travel expenses,25,4,619,false,Approved
+297,John,Nia,john.nia@gmail.com,107,3036979,4886,2705476,681,higher education,30,4,767,false,Approved
+298,John,Zara,john.zara@gmail.com,79,3086507,4670,545689,572,investing in stocks,3,5,464,true,Rejected: Past Defaulter
+299,Amina,Zara,amina.zara@gmail.com,66,3008385,9884,1493486,741,luxury vacations,17,1,794,false,Rejected: No Guarantors
+300,David,Simba,david.simba@gmail.com,30,3011070,2835,879826,597,travel expenses,32,5,765,true,Rejected: Past Defaulter
+301,John,Obi,john.obi@gmail.com,105,3091488,7540,247310,755,luxury vacations,21,4,297,true,Rejected: Bad Guarantors
+302,John,Laila,john.laila@gmail.com,93,3046400,2795,2606408,499,higher education,27,5,712,false,Approved
+303,Mary,Sade,mary.sade@gmail.com,18,3002055,7074,1045418,608,investing in stocks,23,2,547,false,Approved
+304,Kwame,Laila,kwame.laila@gmail.com,111,3049021,9521,302041,606,higher education,32,3,545,true,Rejected: Past Defaulter
+305,Amina,Laila,amina.laila@gmail.com,82,2922944,5162,994730,583,investing in stocks,30,2,449,false,Approved
+306,Amina,Zara,amina.zara@gmail.com,61,3080881,8662,2920678,779,luxury vacations,12,3,696,false,Approved
+307,David,Simba,david.simba@gmail.com,48,2910862,9537,2298103,677,luxury vacations,36,1,588,true,Rejected: No Guarantors
+308,Wanjiku,Aisha,wanjiku.aisha@gmail.com,15,2813890,7408,2671930,702,luxury vacations,22,2,593,true,Rejected: Past Defaulter
+309,Wanjiku,Jabari,wanjiku.jabari@gmail.com,72,2838312,7627,2122615,410,charitable donations,6,2,630,false,Rejected: Poor Credit score
+310,Mary,Sade,mary.sade@gmail.com,52,2998800,6366,264521,628,starting a business,16,6,487,false,Approved
+311,Kwame,Zara,kwame.zara@gmail.com,91,3011072,9238,1871284,535,investing in stocks,6,6,528,true,Rejected: Past Defaulter
+312,David,Aisha,david.aisha@gmail.com,100,3114464,5505,1856467,677,paying off debt,18,6,743,false,Approved
+313,Wanjiku,Simba,wanjiku.simba@gmail.com,109,2852263,4883,1770317,776,paying off debt,22,1,377,true,Rejected: No Guarantors
+314,Mary,Kwame,mary.kwame@gmail.com,86,2772573,1780,2236568,563,charitable donations,20,3,609,true,Rejected: Past Defaulter
+315,David,Simba,david.simba@gmail.com,18,3062246,9079,560785,688,travel expenses,17,4,481,true,Rejected: Past Defaulter
+316,Mary,Chidi,mary.chidi@gmail.com,120,3028495,5022,894982,772,home renovation,19,5,494,false,Approved
+317,Amina,Simba,amina.simba@gmail.com,95,3063426,5199,191711,714,paying off debt,3,4,606,false,Approved
+318,Kwame,Kwame,kwame.kwame@gmail.com,91,3004969,4447,2448620,616,investing in stocks,9,6,818,false,Approved
+319,Kwame,Sade,kwame.sade@gmail.com,80,3053520,6745,2027347,602,investing in stocks,2,2,522,false,Approved
+320,David,Laila,david.laila@gmail.com,118,3028695,1061,1043431,640,home renovation,3,1,732,true,Rejected: No Guarantors
+321,Mary,Jabari,mary.jabari@gmail.com,82,2959944,2735,1411397,497,paying off debt,19,2,641,true,Rejected: Past Defaulter
+322,Wanjiku,Laila,wanjiku.laila@gmail.com,70,3132424,9211,342110,783,luxury vacations,15,4,556,false,Approved
+323,Kwame,Zara,kwame.zara@gmail.com,75,2898100,5777,1369429,743,travel expenses,28,6,673,false,Approved
+324,Amina,Kwame,amina.kwame@gmail.com,57,3050826,5039,1431103,643,luxury vacations,17,1,683,false,Rejected: No Guarantors
+325,Kwame,Zara,kwame.zara@gmail.com,93,3113268,4108,502723,553,home renovation,36,3,712,true,Rejected: Past Defaulter
+326,Wanjiku,Aisha,wanjiku.aisha@gmail.com,32,2886167,6032,2528100,837,paying off debt,28,6,932,false,Approved
+327,Mary,Chidi,mary.chidi@gmail.com,74,2980331,3992,1462105,614,starting a business,9,2,711,false,Approved
+328,John,Chidi,john.chidi@gmail.com,52,3116892,2032,2914258,702,starting a business,31,4,552,false,Approved
+329,Mary,Aisha,mary.aisha@gmail.com,109,2914483,6515,565036,793,medical expenses,6,4,649,true,Rejected: Past Defaulter
+330,Amina,Nia,amina.nia@gmail.com,39,3053516,4458,1005286,607,medical expenses,29,4,747,false,Approved
+331,Kwame,Sade,kwame.sade@gmail.com,9,2958396,3957,1576413,442,home renovation,16,3,779,true,Rejected: Past Defaulter
+332,Amina,Nia,amina.nia@gmail.com,69,3070366,9110,2147619,621,medical expenses,19,1,488,false,Rejected: No Guarantors
+333,David,Sade,david.sade@gmail.com,41,2970350,6657,893290,802,travel expenses,35,2,529,false,Approved
+334,Wanjiku,Sade,wanjiku.sade@gmail.com,30,3151529,2787,121676,682,luxury vacations,24,3,475,true,Rejected: Past Defaulter
+335,Kwame,Kwame,kwame.kwame@gmail.com,114,3087388,5064,454335,606,charitable donations,32,6,507,true,Rejected: Past Defaulter
+336,John,Jabari,john.jabari@gmail.com,81,3048984,8100,832486,501,home renovation,23,4,750,false,Approved
+337,Amina,Nia,amina.nia@gmail.com,80,3079476,3314,2671737,470,investing in stocks,31,4,687,true,Rejected: Past Defaulter
+338,Amina,Laila,amina.laila@gmail.com,87,3050314,2654,1072630,734,higher education,30,4,426,true,Rejected: Past Defaulter
+339,Amina,Jabari,amina.jabari@gmail.com,72,2943987,3924,532208,692,luxury vacations,32,4,565,true,Rejected: Past Defaulter
+340,John,Kwame,john.kwame@gmail.com,59,3083456,8692,1848146,405,investing in stocks,3,4,589,false,Rejected: Poor Credit score
+341,Wanjiku,Laila,wanjiku.laila@gmail.com,61,2834563,2914,2867426,583,charitable donations,11,2,579,true,Rejected: Past Defaulter
+342,David,Sade,david.sade@gmail.com,113,3009441,5531,1638358,642,investing in stocks,24,6,722,false,Approved
+343,David,Zara,david.zara@gmail.com,6,2934914,9838,80162,680,medical expenses,30,5,493,true,Rejected: Past Defaulter
+344,John,Jabari,john.jabari@gmail.com,66,3032821,1024,1099011,680,charitable donations,22,2,489,false,Approved
+345,John,Chidi,john.chidi@gmail.com,21,3098330,5336,2659280,777,buying a car,32,3,624,true,Rejected: Past Defaulter
+346,John,Jabari,john.jabari@gmail.com,54,2905991,3906,844082,648,charitable donations,22,1,455,true,Rejected: No Guarantors
+347,John,Kwame,john.kwame@gmail.com,59,2937788,1306,2276938,679,charitable donations,34,1,694,false,Rejected: No Guarantors
+348,Wanjiku,Jabari,wanjiku.jabari@gmail.com,70,2935551,8055,1270009,594,luxury vacations,14,1,533,false,Rejected: No Guarantors
+349,Amina,Kwame,amina.kwame@gmail.com,7,3136433,4635,2283670,630,higher education,1,2,548,false,Approved
+350,David,Sade,david.sade@gmail.com,90,2911819,1522,315152,537,higher education,11,5,504,true,Rejected: Past Defaulter
+351,Mary,Obi,mary.obi@gmail.com,78,3151826,4276,2958956,899,charitable donations,34,4,682,true,Rejected: Past Defaulter
+352,Mary,Simba,mary.simba@gmail.com,7,3034393,6496,122319,607,home renovation,8,1,573,true,Rejected: No Guarantors
+353,Mary,Chidi,mary.chidi@gmail.com,36,3002389,8148,1433596,699,travel expenses,30,5,443,false,Approved
+354,John,Kwame,john.kwame@gmail.com,69,3127040,6169,821143,653,paying off debt,31,5,531,true,Rejected: Past Defaulter
+355,John,Obi,john.obi@gmail.com,106,2991415,7859,2452352,687,higher education,21,1,626,false,Rejected: No Guarantors
+356,David,Zara,david.zara@gmail.com,117,2949626,7660,2181249,582,charitable donations,34,2,315,true,Rejected: Bad Guarantors
+357,Mary,Aisha,mary.aisha@gmail.com,60,3049606,3399,2513301,836,home renovation,4,3,259,true,Rejected: Bad Guarantors
+358,Mary,Jabari,mary.jabari@gmail.com,92,2990846,2843,14182,807,medical expenses,9,3,791,false,Approved
+359,Wanjiku,Nia,wanjiku.nia@gmail.com,36,2866858,3432,1218088,632,medical expenses,28,4,664,false,Approved
+360,Wanjiku,Zara,wanjiku.zara@gmail.com,63,2842682,1191,2768547,643,buying a car,31,3,937,true,Rejected: Past Defaulter
+361,Mary,Nia,mary.nia@gmail.com,18,2931120,1365,963070,622,paying off debt,19,5,508,false,Approved
+362,David,Simba,david.simba@gmail.com,81,3082025,3198,1313811,783,home renovation,6,6,509,false,Approved
+363,Amina,Simba,amina.simba@gmail.com,46,2917398,8308,1330307,575,medical expenses,31,2,600,true,Rejected: Past Defaulter
+364,Wanjiku,Simba,wanjiku.simba@gmail.com,111,2975784,5679,2420886,641,starting a business,14,2,867,false,Approved
+365,Wanjiku,Simba,wanjiku.simba@gmail.com,55,3094897,6497,1334777,658,medical expenses,22,1,706,true,Rejected: No Guarantors
+366,David,Zara,david.zara@gmail.com,22,3025127,1068,460396,552,investing in stocks,7,6,683,false,Approved
+367,David,Jabari,david.jabari@gmail.com,55,2940179,8346,635297,703,investing in stocks,24,3,588,true,Rejected: Past Defaulter
+368,David,Simba,david.simba@gmail.com,27,2846410,9974,227616,544,charitable donations,29,2,733,false,Approved
+369,Mary,Laila,mary.laila@gmail.com,116,3138217,5541,1574532,772,paying off debt,17,2,563,true,Rejected: Past Defaulter
+370,David,Jabari,david.jabari@gmail.com,99,2945630,7174,536699,480,luxury vacations,21,6,604,true,Rejected: Past Defaulter
+371,Kwame,Chidi,kwame.chidi@gmail.com,57,3012789,8859,2048210,738,paying off debt,14,5,678,true,Rejected: Past Defaulter
+372,David,Aisha,david.aisha@gmail.com,70,3070905,1364,540386,584,buying a car,34,2,570,true,Rejected: Past Defaulter
+373,Amina,Chidi,amina.chidi@gmail.com,120,3143710,1937,2913263,700,paying off debt,34,6,711,false,Approved
+374,David,Simba,david.simba@gmail.com,20,2885699,1321,2565746,809,starting a business,25,6,774,false,Approved
+375,John,Sade,john.sade@gmail.com,104,2980094,4105,2388247,671,starting a business,23,5,587,true,Rejected: Past Defaulter
+376,David,Obi,david.obi@gmail.com,8,2936330,2259,879215,529,medical expenses,9,4,475,true,Rejected: Past Defaulter
+377,Mary,Chidi,mary.chidi@gmail.com,19,3133753,5450,2972742,594,paying off debt,6,6,705,false,Approved
+378,David,Sade,david.sade@gmail.com,46,3094305,1092,1038778,833,medical expenses,29,2,567,false,Approved
+379,Kwame,Nia,kwame.nia@gmail.com,13,3249183,1639,1778871,671,charitable donations,11,4,625,false,Approved
+380,Amina,Obi,amina.obi@gmail.com,78,2886912,1642,1081502,641,charitable donations,21,2,619,false,Approved
+381,Wanjiku,Laila,wanjiku.laila@gmail.com,18,3078365,3277,2231437,501,paying off debt,9,3,695,false,Approved
+382,Mary,Aisha,mary.aisha@gmail.com,38,2899126,2681,214377,679,paying off debt,18,4,508,true,Rejected: Past Defaulter
+383,John,Laila,john.laila@gmail.com,33,3187531,5923,2586208,708,paying off debt,27,2,756,true,Rejected: Past Defaulter
+384,Wanjiku,Aisha,wanjiku.aisha@gmail.com,72,2977062,2467,2254972,810,travel expenses,28,6,512,true,Rejected: Past Defaulter
+385,Amina,Laila,amina.laila@gmail.com,13,2903423,6386,2134370,535,luxury vacations,10,4,391,true,Rejected: Bad Guarantors
+386,Wanjiku,Zara,wanjiku.zara@gmail.com,37,3010728,3501,1997478,738,starting a business,19,2,447,true,Rejected: Past Defaulter
+387,Amina,Sade,amina.sade@gmail.com,115,2878155,7602,1967497,501,investing in stocks,18,2,662,true,Rejected: Past Defaulter
+388,John,Kwame,john.kwame@gmail.com,44,3020045,8805,2913360,652,investing in stocks,18,3,799,true,Rejected: Past Defaulter
+389,David,Sade,david.sade@gmail.com,54,3210570,4282,2112444,743,investing in stocks,15,6,769,true,Rejected: Past Defaulter
+390,Amina,Sade,amina.sade@gmail.com,100,2906897,7511,1213168,573,medical expenses,34,4,549,false,Approved
+391,Amina,Zara,amina.zara@gmail.com,41,2902147,1402,1040115,700,buying a car,30,6,573,true,Rejected: Past Defaulter
+392,Amina,Chidi,amina.chidi@gmail.com,68,2985897,1273,1238665,720,paying off debt,18,6,516,true,Rejected: Past Defaulter
+393,Mary,Aisha,mary.aisha@gmail.com,61,2991574,7029,2754360,700,starting a business,29,5,564,true,Rejected: Past Defaulter
+394,Wanjiku,Zara,wanjiku.zara@gmail.com,58,2996016,5594,1849484,619,charitable donations,16,6,439,true,Rejected: Past Defaulter
+395,Wanjiku,Obi,wanjiku.obi@gmail.com,19,2918604,8627,1205837,694,higher education,22,2,630,true,Rejected: Past Defaulter
+396,Amina,Kwame,amina.kwame@gmail.com,36,2950721,7677,492943,585,travel expenses,15,1,309,false,Rejected: No Guarantors
+397,David,Kwame,david.kwame@gmail.com,93,2874163,9145,1755637,576,home renovation,21,2,729,false,Approved
+398,John,Aisha,john.aisha@gmail.com,33,3107188,8888,2818523,513,charitable donations,8,4,548,true,Rejected: Past Defaulter
+399,Wanjiku,Laila,wanjiku.laila@gmail.com,31,2841765,7612,2845224,533,paying off debt,30,1,491,false,Rejected: No Guarantors
+400,Mary,Simba,mary.simba@gmail.com,86,2884359,6238,1409434,667,charitable donations,23,2,528,false,Approved
+401,Mary,Jabari,mary.jabari@gmail.com,51,3033798,3345,1293995,776,buying a car,5,5,695,false,Approved
+402,Kwame,Laila,kwame.laila@gmail.com,119,2963692,6820,2853352,398,luxury vacations,30,4,692,true,Rejected: Past Defaulter
+403,Amina,Nia,amina.nia@gmail.com,18,3000474,9379,1206970,642,paying off debt,24,3,781,true,Rejected: Past Defaulter
+404,John,Simba,john.simba@gmail.com,47,2969414,6796,2571291,728,buying a car,18,5,640,false,Approved
+405,Mary,Laila,mary.laila@gmail.com,99,2890569,1402,2986044,507,higher education,6,2,575,true,Rejected: Past Defaulter
+406,Kwame,Sade,kwame.sade@gmail.com,35,2911309,7560,2764376,641,buying a car,28,4,779,true,Rejected: Past Defaulter
+407,John,Zara,john.zara@gmail.com,67,2923954,2130,393811,797,higher education,29,1,669,true,Rejected: No Guarantors
+408,David,Zara,david.zara@gmail.com,25,3081022,4257,2028920,672,investing in stocks,34,5,510,false,Approved
+409,John,Zara,john.zara@gmail.com,94,3102947,7891,1827714,426,home renovation,13,6,749,false,Rejected: Poor Credit score
+410,Kwame,Obi,kwame.obi@gmail.com,25,3159187,9971,472392,561,buying a car,35,6,674,true,Rejected: Past Defaulter
+411,John,Sade,john.sade@gmail.com,68,3175443,1812,509543,708,starting a business,19,6,875,false,Approved
+412,Mary,Sade,mary.sade@gmail.com,99,3091513,3087,960128,775,higher education,13,1,649,true,Rejected: No Guarantors
+413,Wanjiku,Sade,wanjiku.sade@gmail.com,44,3289293,3045,2217939,519,higher education,22,6,716,true,Rejected: Past Defaulter
+414,Wanjiku,Simba,wanjiku.simba@gmail.com,7,3137238,5788,147256,634,travel expenses,35,3,663,true,Rejected: Past Defaulter
+415,John,Nia,john.nia@gmail.com,39,2978052,5636,74452,667,starting a business,7,6,798,true,Rejected: Past Defaulter
+416,John,Chidi,john.chidi@gmail.com,101,2981576,9975,1766522,561,medical expenses,32,3,521,false,Approved
+417,David,Simba,david.simba@gmail.com,62,2866513,1296,2217300,601,higher education,22,6,727,false,Approved
+418,Kwame,Jabari,kwame.jabari@gmail.com,98,2959426,2396,1179692,697,luxury vacations,33,1,606,true,Rejected: No Guarantors
+419,Mary,Sade,mary.sade@gmail.com,106,3010906,2319,763548,583,medical expenses,10,4,508,true,Rejected: Past Defaulter
+420,Kwame,Nia,kwame.nia@gmail.com,10,2856478,2811,19806,599,home renovation,2,5,385,false,Rejected: Bad Guarantors
+421,Mary,Aisha,mary.aisha@gmail.com,11,2975451,7841,2294621,593,higher education,20,6,406,true,Rejected: Past Defaulter
+422,John,Kwame,john.kwame@gmail.com,92,2921888,9532,2703293,516,starting a business,3,5,414,true,Rejected: Past Defaulter
+423,John,Chidi,john.chidi@gmail.com,41,2980640,3792,2910090,765,higher education,24,5,528,false,Approved
+424,John,Jabari,john.jabari@gmail.com,50,3049112,9322,1168150,581,charitable donations,17,1,524,false,Rejected: No Guarantors
+425,Wanjiku,Zara,wanjiku.zara@gmail.com,19,3091107,4992,1378547,588,charitable donations,28,1,463,true,Rejected: No Guarantors
+426,David,Laila,david.laila@gmail.com,43,3102560,7556,1314343,572,starting a business,17,5,793,false,Approved
+427,Wanjiku,Laila,wanjiku.laila@gmail.com,52,2851678,1931,910106,656,paying off debt,4,5,527,false,Approved
+428,John,Obi,john.obi@gmail.com,24,3044473,9145,1836906,865,charitable donations,3,1,762,true,Rejected: No Guarantors
+429,John,Nia,john.nia@gmail.com,59,3039688,3382,2792885,606,higher education,34,3,436,true,Rejected: Past Defaulter
+430,John,Zara,john.zara@gmail.com,20,3116135,8476,1175805,688,luxury vacations,31,4,516,true,Rejected: Past Defaulter
+431,Amina,Nia,amina.nia@gmail.com,93,2788367,8783,2746617,527,travel expenses,3,2,724,true,Rejected: Past Defaulter
+432,Wanjiku,Jabari,wanjiku.jabari@gmail.com,109,3083771,9371,2984803,550,paying off debt,7,3,472,true,Rejected: Past Defaulter
+433,Amina,Chidi,amina.chidi@gmail.com,8,2823235,1000,1587314,677,medical expenses,9,4,587,true,Rejected: Past Defaulter
+434,Mary,Jabari,mary.jabari@gmail.com,35,3124641,5698,790689,728,investing in stocks,23,3,753,true,Rejected: Past Defaulter
+435,Mary,Kwame,mary.kwame@gmail.com,74,2920746,1138,2629576,585,travel expenses,16,1,548,true,Rejected: No Guarantors
+436,David,Aisha,david.aisha@gmail.com,99,2892863,8036,2682280,686,charitable donations,10,5,860,false,Approved
+437,Wanjiku,Laila,wanjiku.laila@gmail.com,73,2991575,8674,1473288,575,charitable donations,13,5,769,false,Approved
+438,Kwame,Laila,kwame.laila@gmail.com,78,2989314,1016,289728,643,paying off debt,9,2,703,false,Approved
+439,Wanjiku,Laila,wanjiku.laila@gmail.com,88,3044320,7334,270229,679,paying off debt,5,6,512,false,Approved
+440,David,Kwame,david.kwame@gmail.com,119,2975274,9434,2598046,619,higher education,15,2,787,false,Approved
+441,Mary,Chidi,mary.chidi@gmail.com,43,2943346,4576,720791,475,luxury vacations,8,5,802,false,Approved
+442,Kwame,Obi,kwame.obi@gmail.com,15,2926510,5936,1720299,447,paying off debt,21,1,355,true,Rejected: No Guarantors
+443,Amina,Zara,amina.zara@gmail.com,8,2962332,3233,236837,819,paying off debt,6,1,405,false,Rejected: No Guarantors
+444,Kwame,Sade,kwame.sade@gmail.com,10,2907945,8190,1078159,620,travel expenses,34,6,629,true,Rejected: Past Defaulter
+445,David,Kwame,david.kwame@gmail.com,6,3026065,6358,1923776,646,luxury vacations,12,5,546,true,Rejected: Past Defaulter
+446,John,Chidi,john.chidi@gmail.com,104,3067843,1351,2725330,632,higher education,14,5,567,false,Approved
+447,Amina,Obi,amina.obi@gmail.com,88,2832786,4867,1347078,636,luxury vacations,8,3,545,true,Rejected: Past Defaulter
+448,Amina,Aisha,amina.aisha@gmail.com,38,2874732,4745,47636,802,investing in stocks,13,4,623,true,Rejected: Past Defaulter
+449,Amina,Obi,amina.obi@gmail.com,71,2856755,5724,146402,710,paying off debt,20,1,609,true,Rejected: No Guarantors
+450,John,Sade,john.sade@gmail.com,85,3066866,2342,1851544,553,medical expenses,35,6,920,true,Rejected: Past Defaulter
+451,Wanjiku,Laila,wanjiku.laila@gmail.com,40,2905791,2661,1767832,828,starting a business,27,5,700,false,Approved
+452,Mary,Aisha,mary.aisha@gmail.com,102,3026528,8428,1661170,603,higher education,29,6,345,false,Rejected: Bad Guarantors
+453,John,Simba,john.simba@gmail.com,20,3031641,6010,2602725,716,paying off debt,14,6,522,false,Approved
+454,John,Simba,john.simba@gmail.com,51,3064202,7974,774569,634,starting a business,34,6,508,false,Approved
+455,Amina,Zara,amina.zara@gmail.com,102,3025709,8216,2265362,792,home renovation,1,4,420,true,Rejected: Past Defaulter
+456,John,Laila,john.laila@gmail.com,10,2943971,3755,1892531,767,charitable donations,35,3,391,false,Rejected: Bad Guarantors
+457,Amina,Aisha,amina.aisha@gmail.com,78,2969364,6486,1253868,615,buying a car,16,2,568,true,Rejected: Past Defaulter
+458,Kwame,Nia,kwame.nia@gmail.com,55,2968892,3507,2823020,649,starting a business,33,1,649,true,Rejected: No Guarantors
+459,Mary,Kwame,mary.kwame@gmail.com,103,3029213,8178,80556,801,home renovation,14,1,681,false,Rejected: No Guarantors
+460,Mary,Chidi,mary.chidi@gmail.com,92,2828219,1816,2320216,594,paying off debt,4,4,520,true,Rejected: Past Defaulter
+461,Mary,Kwame,mary.kwame@gmail.com,22,3072019,4383,1077031,564,paying off debt,5,4,718,true,Rejected: Past Defaulter
+462,David,Sade,david.sade@gmail.com,11,2840099,7338,901621,537,home renovation,32,4,743,true,Rejected: Past Defaulter
+463,Amina,Zara,amina.zara@gmail.com,101,3056150,6695,1994708,718,charitable donations,26,3,442,true,Rejected: Past Defaulter
+464,Mary,Aisha,mary.aisha@gmail.com,62,2945629,2333,1440736,768,charitable donations,21,3,616,false,Approved
+465,Kwame,Jabari,kwame.jabari@gmail.com,118,2972079,6623,658922,696,starting a business,25,6,385,false,Rejected: Bad Guarantors
+466,David,Kwame,david.kwame@gmail.com,70,3118799,4639,250460,653,medical expenses,11,1,433,true,Rejected: No Guarantors
+467,Kwame,Jabari,kwame.jabari@gmail.com,12,2990976,8789,495273,470,starting a business,23,1,741,false,Rejected: No Guarantors
+468,David,Sade,david.sade@gmail.com,76,3067467,5783,2130789,781,paying off debt,27,1,439,false,Rejected: No Guarantors
+469,Amina,Aisha,amina.aisha@gmail.com,87,2805197,1624,1451434,494,starting a business,20,5,412,false,Approved
+470,Wanjiku,Laila,wanjiku.laila@gmail.com,14,3035726,8102,2558653,450,charitable donations,8,6,540,true,Rejected: Past Defaulter
+471,Wanjiku,Zara,wanjiku.zara@gmail.com,63,3007364,4526,2668815,733,travel expenses,17,1,483,true,Rejected: No Guarantors
+472,Amina,Laila,amina.laila@gmail.com,57,3093895,8197,333504,669,medical expenses,25,6,465,true,Rejected: Past Defaulter
+473,John,Kwame,john.kwame@gmail.com,97,2887070,3675,382242,654,paying off debt,5,3,362,true,Rejected: Bad Guarantors
+474,Wanjiku,Laila,wanjiku.laila@gmail.com,54,2877302,1929,2262226,643,higher education,25,2,604,false,Approved
+475,Mary,Aisha,mary.aisha@gmail.com,116,3065883,3318,1313745,610,travel expenses,17,1,479,false,Rejected: No Guarantors
+476,Mary,Jabari,mary.jabari@gmail.com,84,2935670,1766,124179,770,starting a business,29,4,729,false,Approved
+477,Amina,Jabari,amina.jabari@gmail.com,6,2833007,4248,2444812,644,medical expenses,24,1,569,false,Rejected: No Guarantors
+478,Mary,Obi,mary.obi@gmail.com,90,2992668,6335,1334045,649,investing in stocks,16,1,594,false,Rejected: No Guarantors
+479,Amina,Kwame,amina.kwame@gmail.com,94,3085830,9353,1762794,704,travel expenses,27,5,722,true,Rejected: Past Defaulter
+480,Amina,Obi,amina.obi@gmail.com,14,2803153,6774,273572,615,paying off debt,3,4,625,true,Rejected: Past Defaulter
+481,Wanjiku,Chidi,wanjiku.chidi@gmail.com,10,2900038,4349,1285446,730,medical expenses,28,5,753,false,Approved
+482,Amina,Obi,amina.obi@gmail.com,12,2954923,6471,1348455,809,travel expenses,34,1,621,false,Rejected: No Guarantors
+483,Mary,Obi,mary.obi@gmail.com,115,3090006,5725,1462795,659,luxury vacations,36,2,330,true,Rejected: Bad Guarantors
+484,David,Simba,david.simba@gmail.com,56,3121820,4062,1464762,695,medical expenses,31,1,669,true,Rejected: No Guarantors
+485,Kwame,Sade,kwame.sade@gmail.com,40,3102056,1199,2463640,550,home renovation,6,6,722,false,Approved
+486,David,Zara,david.zara@gmail.com,73,2951460,1913,2109412,630,buying a car,8,6,665,true,Rejected: Past Defaulter
+487,Mary,Sade,mary.sade@gmail.com,18,2910528,7910,297619,803,buying a car,12,5,437,true,Rejected: Past Defaulter
+488,David,Chidi,david.chidi@gmail.com,19,3095899,5275,1969120,745,home renovation,21,3,475,true,Rejected: Past Defaulter
+489,Wanjiku,Zara,wanjiku.zara@gmail.com,102,2826245,8815,2818130,701,home renovation,23,3,732,true,Rejected: Past Defaulter
+490,John,Chidi,john.chidi@gmail.com,46,2802756,5349,2065975,712,medical expenses,21,1,663,false,Rejected: No Guarantors
+491,Wanjiku,Zara,wanjiku.zara@gmail.com,12,2889099,6062,717629,647,travel expenses,2,4,526,false,Approved
+492,Mary,Aisha,mary.aisha@gmail.com,50,3162870,3877,1718533,699,home renovation,18,3,637,true,Rejected: Past Defaulter
+493,John,Laila,john.laila@gmail.com,117,3011840,9075,432588,821,investing in stocks,16,5,200,true,Rejected: Bad Guarantors
+494,Amina,Kwame,amina.kwame@gmail.com,68,3060082,1303,1985965,597,higher education,3,2,240,false,Rejected: Bad Guarantors
+495,Wanjiku,Kwame,wanjiku.kwame@gmail.com,72,2917979,3729,2754907,738,investing in stocks,15,3,785,true,Rejected: Past Defaulter
+496,Mary,Kwame,mary.kwame@gmail.com,57,3062910,2959,1024276,467,starting a business,14,1,325,false,Rejected: No Guarantors
+497,David,Chidi,david.chidi@gmail.com,69,2945277,9411,698807,795,investing in stocks,36,1,556,false,Rejected: No Guarantors
+498,John,Zara,john.zara@gmail.com,120,3077500,9954,2306491,718,charitable donations,4,5,733,false,Approved
+499,John,Simba,john.simba@gmail.com,15,3025111,9891,436938,584,medical expenses,31,4,834,true,Rejected: Past Defaulter
+500,David,Zara,david.zara@gmail.com,62,2814900,4950,682564,747,higher education,27,4,290,false,Rejected: Bad Guarantors
+501,Amina,Nia,amina.nia@gmail.com,38,2856963,8262,2510734,733,higher education,13,2,634,true,Rejected: Past Defaulter
+502,David,Jabari,david.jabari@gmail.com,99,2937499,7020,765442,673,investing in stocks,33,4,958,false,Approved
+503,Wanjiku,Jabari,wanjiku.jabari@gmail.com,26,2917490,9499,2487757,715,charitable donations,9,2,375,true,Rejected: Bad Guarantors
+504,John,Sade,john.sade@gmail.com,23,3107700,3881,1442652,574,buying a car,1,2,305,false,Rejected: Bad Guarantors
+505,Mary,Aisha,mary.aisha@gmail.com,14,2990498,9392,889115,618,paying off debt,30,5,739,true,Rejected: Past Defaulter
+506,Amina,Chidi,amina.chidi@gmail.com,50,3091038,2730,404094,607,luxury vacations,35,3,769,false,Approved
+507,Kwame,Sade,kwame.sade@gmail.com,45,2839232,5129,211636,493,charitable donations,27,5,509,true,Rejected: Past Defaulter
+508,Mary,Laila,mary.laila@gmail.com,96,2934092,1148,1072952,677,medical expenses,31,5,495,false,Approved
+509,Amina,Jabari,amina.jabari@gmail.com,94,2913429,6772,1149597,656,luxury vacations,30,6,573,false,Approved
+510,Kwame,Obi,kwame.obi@gmail.com,87,3173931,5034,1079583,730,medical expenses,6,3,812,true,Rejected: Past Defaulter
+511,John,Kwame,john.kwame@gmail.com,11,3020678,4176,1859343,621,travel expenses,14,6,417,false,Approved
+512,Wanjiku,Simba,wanjiku.simba@gmail.com,118,2907636,5583,1693035,425,buying a car,24,1,522,true,Rejected: No Guarantors
+513,Wanjiku,Kwame,wanjiku.kwame@gmail.com,89,3018756,7875,693724,891,charitable donations,23,5,521,false,Approved
+514,Kwame,Sade,kwame.sade@gmail.com,21,2970391,4601,2737295,524,luxury vacations,32,3,480,true,Rejected: Past Defaulter
+515,Kwame,Jabari,kwame.jabari@gmail.com,6,3039573,9054,688674,624,paying off debt,14,3,517,false,Approved
+516,John,Jabari,john.jabari@gmail.com,98,3074907,7481,1643174,471,higher education,32,5,401,true,Rejected: Past Defaulter
+517,John,Sade,john.sade@gmail.com,109,2807023,5067,930827,653,starting a business,15,4,790,false,Approved
+518,Wanjiku,Chidi,wanjiku.chidi@gmail.com,20,3019982,1662,2784933,705,starting a business,28,1,662,true,Rejected: No Guarantors
+519,Wanjiku,Nia,wanjiku.nia@gmail.com,69,3104627,3488,663078,865,starting a business,11,6,601,true,Rejected: Past Defaulter
+520,Amina,Jabari,amina.jabari@gmail.com,13,3098183,3604,552536,718,luxury vacations,15,6,522,true,Rejected: Past Defaulter
+521,David,Laila,david.laila@gmail.com,61,2993833,5920,831996,859,home renovation,30,5,766,true,Rejected: Past Defaulter
+522,Amina,Jabari,amina.jabari@gmail.com,97,3105428,9624,52918,750,starting a business,34,6,689,true,Rejected: Past Defaulter
+523,Amina,Aisha,amina.aisha@gmail.com,31,2891999,7587,1422588,781,travel expenses,6,1,838,true,Rejected: No Guarantors
+524,Wanjiku,Aisha,wanjiku.aisha@gmail.com,49,3245552,3229,2592790,652,luxury vacations,16,2,693,false,Approved
+525,David,Aisha,david.aisha@gmail.com,24,2793346,3854,2161690,466,medical expenses,35,3,479,false,Approved
+526,David,Aisha,david.aisha@gmail.com,113,2996556,6583,2902461,501,charitable donations,25,3,395,false,Rejected: Bad Guarantors
+527,Kwame,Laila,kwame.laila@gmail.com,44,2888132,1942,2647208,485,luxury vacations,21,5,633,false,Approved
+528,Wanjiku,Jabari,wanjiku.jabari@gmail.com,50,2941371,2840,1111264,627,medical expenses,19,1,794,false,Rejected: No Guarantors
+529,Wanjiku,Aisha,wanjiku.aisha@gmail.com,15,2927182,6530,1309777,645,home renovation,4,6,485,true,Rejected: Past Defaulter
+530,Mary,Zara,mary.zara@gmail.com,94,3059552,8769,697654,840,higher education,1,2,617,true,Rejected: Past Defaulter
+531,Kwame,Chidi,kwame.chidi@gmail.com,87,2997966,3374,1105190,620,investing in stocks,5,2,659,false,Approved
+532,Amina,Simba,amina.simba@gmail.com,32,3039102,8439,1728228,557,higher education,35,1,701,false,Rejected: No Guarantors
+533,Wanjiku,Chidi,wanjiku.chidi@gmail.com,64,3052855,2579,502806,663,home renovation,32,5,593,false,Approved
+534,Mary,Laila,mary.laila@gmail.com,60,2893137,1841,329069,520,home renovation,7,1,1159,false,Rejected: No Guarantors
+535,Kwame,Jabari,kwame.jabari@gmail.com,30,3111134,9882,1866224,682,higher education,1,5,669,true,Rejected: Past Defaulter
+536,David,Nia,david.nia@gmail.com,85,3044517,7105,1497657,829,medical expenses,13,2,645,true,Rejected: Past Defaulter
+537,Mary,Laila,mary.laila@gmail.com,110,3029311,8032,2216208,608,buying a car,30,5,756,false,Approved
+538,Mary,Obi,mary.obi@gmail.com,30,3217910,5973,2667035,748,higher education,9,6,649,false,Approved
+539,David,Aisha,david.aisha@gmail.com,37,3156585,5820,93793,644,home renovation,11,3,482,true,Rejected: Past Defaulter
+540,Amina,Simba,amina.simba@gmail.com,117,2885339,5473,1280982,695,investing in stocks,36,5,750,false,Approved
+541,Amina,Obi,amina.obi@gmail.com,76,2973153,8592,2347547,820,higher education,26,3,514,true,Rejected: Past Defaulter
+542,Kwame,Zara,kwame.zara@gmail.com,85,2971806,1513,249469,669,paying off debt,22,6,683,true,Rejected: Past Defaulter
+543,Wanjiku,Aisha,wanjiku.aisha@gmail.com,95,2960919,2449,400968,746,buying a car,34,6,689,true,Rejected: Past Defaulter
+544,John,Zara,john.zara@gmail.com,89,3110784,4176,20808,661,buying a car,35,2,592,true,Rejected: Past Defaulter
+545,David,Nia,david.nia@gmail.com,17,3081765,9417,833269,703,medical expenses,34,3,533,true,Rejected: Past Defaulter
+546,Kwame,Sade,kwame.sade@gmail.com,18,3103288,7772,906955,525,luxury vacations,24,5,269,true,Rejected: Bad Guarantors
+547,Kwame,Aisha,kwame.aisha@gmail.com,64,3164165,7573,863776,622,paying off debt,31,2,728,true,Rejected: Past Defaulter
+548,Wanjiku,Zara,wanjiku.zara@gmail.com,44,2880259,3466,2539345,625,luxury vacations,36,4,430,true,Rejected: Past Defaulter
+549,Mary,Obi,mary.obi@gmail.com,12,2947654,2642,928654,543,higher education,23,3,664,true,Rejected: Past Defaulter
+550,Wanjiku,Zara,wanjiku.zara@gmail.com,75,2890159,3708,107381,708,home renovation,2,1,716,true,Rejected: No Guarantors
+551,John,Jabari,john.jabari@gmail.com,82,3071506,5265,1436355,573,investing in stocks,12,2,599,true,Rejected: Past Defaulter
+552,Kwame,Laila,kwame.laila@gmail.com,49,2996433,5020,1080501,653,charitable donations,27,6,589,true,Rejected: Past Defaulter
+553,David,Obi,david.obi@gmail.com,73,3046549,8773,1200927,536,paying off debt,35,5,860,false,Approved
+554,Mary,Nia,mary.nia@gmail.com,57,3042036,5270,1794662,574,paying off debt,13,5,510,true,Rejected: Past Defaulter
+555,Mary,Chidi,mary.chidi@gmail.com,119,3081392,5703,687347,690,charitable donations,33,5,458,true,Rejected: Past Defaulter
+556,Kwame,Nia,kwame.nia@gmail.com,46,3007226,9081,55992,647,home renovation,32,3,672,true,Rejected: Past Defaulter
+557,David,Obi,david.obi@gmail.com,50,2980943,6312,2261588,665,home renovation,10,2,534,false,Approved
+558,John,Zara,john.zara@gmail.com,23,3193980,6619,2364553,568,buying a car,15,3,564,true,Rejected: Past Defaulter
+559,Kwame,Laila,kwame.laila@gmail.com,92,3015836,4129,123423,714,buying a car,23,2,386,true,Rejected: Bad Guarantors
+560,Mary,Sade,mary.sade@gmail.com,100,3066437,7327,987476,543,travel expenses,33,4,646,false,Approved
+561,John,Aisha,john.aisha@gmail.com,108,3053152,2897,208550,675,investing in stocks,1,5,132,false,Rejected: Bad Guarantors
+562,David,Obi,david.obi@gmail.com,22,2925835,4390,128292,796,travel expenses,12,4,869,true,Rejected: Past Defaulter
+563,Kwame,Nia,kwame.nia@gmail.com,50,3138882,6329,126321,620,buying a car,17,4,433,false,Approved
+564,Wanjiku,Laila,wanjiku.laila@gmail.com,107,3034272,5925,505736,683,luxury vacations,16,5,938,false,Approved
+565,Amina,Chidi,amina.chidi@gmail.com,111,2995146,8516,98830,594,starting a business,20,6,534,true,Rejected: Past Defaulter
+566,Kwame,Laila,kwame.laila@gmail.com,90,3075162,1883,613438,642,home renovation,18,2,578,false,Approved
+567,Mary,Obi,mary.obi@gmail.com,83,3097000,2464,1844246,745,starting a business,33,6,592,false,Approved
+568,David,Obi,david.obi@gmail.com,79,2936323,2630,696750,499,paying off debt,4,6,503,false,Approved
+569,Mary,Kwame,mary.kwame@gmail.com,78,3019284,7635,942606,608,home renovation,19,6,473,true,Rejected: Past Defaulter
+570,Mary,Zara,mary.zara@gmail.com,25,3080001,5639,1074142,742,travel expenses,12,2,613,false,Approved
+571,Amina,Kwame,amina.kwame@gmail.com,31,3049548,4147,1306338,691,buying a car,28,3,577,false,Approved
+572,Wanjiku,Laila,wanjiku.laila@gmail.com,94,3003093,8756,2948371,675,medical expenses,26,4,438,false,Approved
+573,David,Sade,david.sade@gmail.com,7,3016066,2356,2842134,554,buying a car,15,2,600,false,Approved
+574,David,Kwame,david.kwame@gmail.com,71,3084392,7144,2022935,547,higher education,1,5,864,false,Approved
+575,John,Nia,john.nia@gmail.com,72,2887975,4938,447468,719,luxury vacations,10,5,519,false,Approved
+576,John,Zara,john.zara@gmail.com,114,3068634,1588,1338966,601,higher education,5,3,525,false,Approved
+577,Mary,Simba,mary.simba@gmail.com,94,2737324,3649,2598648,757,paying off debt,14,3,715,false,Approved
+578,David,Sade,david.sade@gmail.com,80,2941897,2739,588687,791,higher education,30,6,667,false,Approved
+579,Mary,Sade,mary.sade@gmail.com,76,2877657,6330,1466803,602,luxury vacations,19,6,801,false,Approved
+580,Mary,Sade,mary.sade@gmail.com,114,3043185,3958,1961823,685,higher education,6,5,579,true,Rejected: Past Defaulter
+581,Mary,Jabari,mary.jabari@gmail.com,75,3042048,8803,1817904,614,luxury vacations,4,5,397,false,Rejected: Bad Guarantors
+582,Wanjiku,Simba,wanjiku.simba@gmail.com,94,2922621,7252,1671293,697,buying a car,21,6,612,true,Rejected: Past Defaulter
+583,Wanjiku,Laila,wanjiku.laila@gmail.com,120,3063390,9188,2272046,506,luxury vacations,5,6,538,false,Approved
+584,Wanjiku,Zara,wanjiku.zara@gmail.com,59,3030254,7132,2178541,554,medical expenses,27,3,240,false,Rejected: Bad Guarantors
+585,Kwame,Chidi,kwame.chidi@gmail.com,116,3040088,2390,117320,627,higher education,21,5,611,true,Rejected: Past Defaulter
+586,Wanjiku,Sade,wanjiku.sade@gmail.com,41,3006621,9316,2987583,971,higher education,8,2,460,true,Rejected: Past Defaulter
+587,Mary,Aisha,mary.aisha@gmail.com,78,3056018,5808,674289,672,investing in stocks,19,5,611,false,Approved
+588,David,Laila,david.laila@gmail.com,101,3048594,7486,1803226,744,charitable donations,9,1,619,false,Rejected: No Guarantors
+589,David,Laila,david.laila@gmail.com,88,3159174,3198,778401,807,luxury vacations,26,2,639,false,Approved
+590,Kwame,Obi,kwame.obi@gmail.com,39,2952901,4551,1834828,737,home renovation,24,4,809,false,Approved
+591,Mary,Jabari,mary.jabari@gmail.com,99,2884854,4468,2649273,543,buying a car,36,2,563,true,Rejected: Past Defaulter
+592,Mary,Obi,mary.obi@gmail.com,13,3157406,8241,573662,904,buying a car,15,4,666,true,Rejected: Past Defaulter
+593,Amina,Zara,amina.zara@gmail.com,11,3153840,8873,1373640,868,investing in stocks,18,4,462,true,Rejected: Past Defaulter
+594,John,Laila,john.laila@gmail.com,111,3007585,2213,572598,660,luxury vacations,24,1,660,false,Rejected: No Guarantors
+595,David,Nia,david.nia@gmail.com,38,2803369,4657,2465312,593,home renovation,22,2,450,false,Approved
+596,Mary,Zara,mary.zara@gmail.com,14,2976128,8464,2173435,829,charitable donations,15,3,625,false,Approved
+597,Amina,Zara,amina.zara@gmail.com,32,2930277,2631,187157,477,higher education,28,3,703,true,Rejected: Past Defaulter
+598,John,Jabari,john.jabari@gmail.com,71,3059622,7906,2753228,558,home renovation,16,6,677,true,Rejected: Past Defaulter
+599,Amina,Chidi,amina.chidi@gmail.com,30,2752913,3102,1936658,722,charitable donations,14,1,682,false,Rejected: No Guarantors
+600,Mary,Obi,mary.obi@gmail.com,15,3038452,5525,1066258,796,medical expenses,29,1,666,false,Rejected: No Guarantors
+601,David,Obi,david.obi@gmail.com,91,2875403,2263,1596194,626,investing in stocks,10,6,835,false,Approved
+602,Kwame,Sade,kwame.sade@gmail.com,40,2927010,7048,325653,462,charitable donations,7,3,265,false,Rejected: Bad Guarantors
+603,Wanjiku,Aisha,wanjiku.aisha@gmail.com,29,2941782,6737,1371668,487,travel expenses,24,6,654,false,Approved
+604,David,Jabari,david.jabari@gmail.com,37,3104334,4426,813960,585,home renovation,21,1,475,false,Rejected: No Guarantors
+605,Mary,Chidi,mary.chidi@gmail.com,93,2969550,6959,1822220,645,paying off debt,2,5,545,true,Rejected: Past Defaulter
+606,Wanjiku,Simba,wanjiku.simba@gmail.com,55,2923937,2999,384948,598,starting a business,1,4,438,false,Approved
+607,David,Simba,david.simba@gmail.com,61,2815014,1023,663622,637,investing in stocks,28,6,379,true,Rejected: Bad Guarantors
+608,Kwame,Obi,kwame.obi@gmail.com,31,2929955,8152,124922,745,higher education,9,2,723,true,Rejected: Past Defaulter
+609,Mary,Aisha,mary.aisha@gmail.com,111,3007435,8015,2147791,555,medical expenses,2,6,709,true,Rejected: Past Defaulter
+610,John,Laila,john.laila@gmail.com,20,3003675,6914,124456,623,luxury vacations,30,3,860,false,Approved
+611,Kwame,Kwame,kwame.kwame@gmail.com,32,2846347,3608,1214695,625,paying off debt,1,6,577,false,Approved
+612,Mary,Nia,mary.nia@gmail.com,63,2944720,3620,1499874,623,travel expenses,17,1,487,false,Rejected: No Guarantors
+613,Kwame,Jabari,kwame.jabari@gmail.com,94,2907168,7863,2166893,631,higher education,33,1,692,true,Rejected: No Guarantors
+614,David,Aisha,david.aisha@gmail.com,64,3051992,4877,454547,699,higher education,23,1,871,true,Rejected: No Guarantors
+615,David,Kwame,david.kwame@gmail.com,13,3153350,1261,2623673,716,medical expenses,25,3,831,false,Approved
+616,Wanjiku,Kwame,wanjiku.kwame@gmail.com,120,3030116,6976,1244023,673,charitable donations,10,5,416,true,Rejected: Past Defaulter
+617,David,Sade,david.sade@gmail.com,110,2982654,4368,1180883,904,home renovation,6,4,460,false,Approved
+618,David,Obi,david.obi@gmail.com,38,3223703,6587,337055,488,travel expenses,35,3,389,false,Rejected: Bad Guarantors
+619,David,Simba,david.simba@gmail.com,102,3158094,2818,1076397,538,buying a car,26,6,571,false,Approved
+620,David,Obi,david.obi@gmail.com,10,3020646,8702,20509,631,higher education,36,5,652,false,Approved
+621,Kwame,Chidi,kwame.chidi@gmail.com,64,3055147,4205,1489855,860,buying a car,22,3,603,false,Approved
+622,David,Laila,david.laila@gmail.com,28,2933725,7648,723660,604,buying a car,21,3,447,false,Approved
+623,David,Obi,david.obi@gmail.com,86,3007846,2345,1677474,794,luxury vacations,6,4,744,false,Approved
+624,David,Kwame,david.kwame@gmail.com,92,2938595,8556,2080839,779,charitable donations,14,1,594,true,Rejected: No Guarantors
+625,Wanjiku,Jabari,wanjiku.jabari@gmail.com,54,2935252,7038,2616978,689,starting a business,8,1,793,true,Rejected: No Guarantors
+626,Kwame,Chidi,kwame.chidi@gmail.com,61,2959911,4138,951794,542,travel expenses,1,5,588,true,Rejected: Past Defaulter
+627,Amina,Nia,amina.nia@gmail.com,44,3104002,6449,548185,689,buying a car,31,5,686,false,Approved
+628,Amina,Zara,amina.zara@gmail.com,15,3100823,1274,1860594,583,medical expenses,28,2,723,true,Rejected: Past Defaulter
+629,Mary,Zara,mary.zara@gmail.com,60,2915573,6802,2678304,669,higher education,25,1,582,true,Rejected: No Guarantors
+630,John,Zara,john.zara@gmail.com,80,3021498,7192,722985,690,travel expenses,19,3,673,true,Rejected: Past Defaulter
+631,John,Aisha,john.aisha@gmail.com,8,3190827,2630,2758503,784,starting a business,11,1,557,false,Rejected: No Guarantors
+632,Wanjiku,Sade,wanjiku.sade@gmail.com,84,3084719,8331,138917,654,higher education,10,2,479,true,Rejected: Past Defaulter
+633,Amina,Nia,amina.nia@gmail.com,12,2859394,4132,1814429,804,charitable donations,27,5,450,false,Approved
+634,Wanjiku,Simba,wanjiku.simba@gmail.com,20,2929434,8148,583648,767,starting a business,19,1,525,false,Rejected: No Guarantors
+635,Amina,Chidi,amina.chidi@gmail.com,103,2886879,4362,833693,732,paying off debt,13,1,705,true,Rejected: No Guarantors
+636,Kwame,Nia,kwame.nia@gmail.com,70,3028622,1132,1977725,839,starting a business,10,6,597,false,Approved
+637,Wanjiku,Jabari,wanjiku.jabari@gmail.com,47,2976621,3328,2241355,698,home renovation,24,6,741,false,Approved
+638,John,Jabari,john.jabari@gmail.com,80,2861348,1442,555332,741,luxury vacations,20,3,691,true,Rejected: Past Defaulter
+639,David,Chidi,david.chidi@gmail.com,85,2987105,2563,1309499,576,investing in stocks,32,1,584,false,Rejected: No Guarantors
+640,Wanjiku,Aisha,wanjiku.aisha@gmail.com,119,3205768,9303,2835637,676,starting a business,32,3,590,false,Approved
+641,David,Nia,david.nia@gmail.com,58,2922031,4865,1945437,633,home renovation,30,4,461,true,Rejected: Past Defaulter
+642,Kwame,Chidi,kwame.chidi@gmail.com,57,3168329,1366,2582174,656,buying a car,18,3,665,true,Rejected: Past Defaulter
+643,Kwame,Aisha,kwame.aisha@gmail.com,30,3058674,8028,2851648,642,higher education,8,3,649,false,Approved
+644,John,Simba,john.simba@gmail.com,91,3120457,1766,155097,627,paying off debt,22,1,607,false,Rejected: No Guarantors
+645,Kwame,Sade,kwame.sade@gmail.com,105,3039219,3400,2185623,581,travel expenses,20,4,438,true,Rejected: Past Defaulter
+646,Kwame,Aisha,kwame.aisha@gmail.com,35,3201057,2349,1148915,697,luxury vacations,30,3,611,true,Rejected: Past Defaulter
+647,Mary,Kwame,mary.kwame@gmail.com,19,3073570,2046,1830238,680,investing in stocks,34,2,542,false,Approved
+648,Amina,Laila,amina.laila@gmail.com,43,2971867,3866,2032333,642,luxury vacations,33,5,838,true,Rejected: Past Defaulter
+649,Mary,Simba,mary.simba@gmail.com,12,3035615,8297,1060901,911,higher education,25,4,671,true,Rejected: Past Defaulter
+650,John,Zara,john.zara@gmail.com,7,2878914,9240,166073,546,paying off debt,24,6,356,false,Rejected: Bad Guarantors
+651,John,Simba,john.simba@gmail.com,91,3266269,6488,2813869,676,charitable donations,5,2,537,false,Approved
+652,Mary,Laila,mary.laila@gmail.com,29,2865493,4317,684118,649,paying off debt,11,6,705,false,Approved
+653,Amina,Simba,amina.simba@gmail.com,74,2913014,4062,2834784,735,paying off debt,24,3,596,true,Rejected: Past Defaulter
+654,Mary,Simba,mary.simba@gmail.com,109,2900310,6434,2131012,719,home renovation,4,4,456,false,Approved
+655,John,Laila,john.laila@gmail.com,61,2834128,6540,2750180,707,travel expenses,11,6,874,false,Approved
+656,John,Simba,john.simba@gmail.com,62,3078863,2953,1883403,566,investing in stocks,25,5,616,false,Approved
+657,David,Jabari,david.jabari@gmail.com,17,2803985,4096,2202604,678,higher education,9,5,539,true,Rejected: Past Defaulter
+658,Amina,Zara,amina.zara@gmail.com,30,2956845,6096,797575,783,buying a car,31,3,630,false,Approved
+659,John,Sade,john.sade@gmail.com,83,3134056,7016,674224,656,higher education,35,5,434,false,Approved
+660,Kwame,Jabari,kwame.jabari@gmail.com,56,2848098,3698,1336369,641,medical expenses,32,5,456,true,Rejected: Past Defaulter
+661,John,Aisha,john.aisha@gmail.com,95,3022014,2103,1370136,571,home renovation,29,4,752,false,Approved
+662,Amina,Laila,amina.laila@gmail.com,52,2960890,8961,1196661,520,travel expenses,34,2,840,true,Rejected: Past Defaulter
+663,John,Zara,john.zara@gmail.com,62,3033865,6990,872696,390,luxury vacations,14,5,441,true,Rejected: Past Defaulter
+664,Mary,Zara,mary.zara@gmail.com,28,2794707,2156,2441894,569,higher education,11,3,396,true,Rejected: Bad Guarantors
+665,Wanjiku,Nia,wanjiku.nia@gmail.com,108,2939872,3342,645611,640,buying a car,21,4,759,false,Approved
+666,Mary,Zara,mary.zara@gmail.com,69,2906379,6674,1868909,633,paying off debt,9,4,635,true,Rejected: Past Defaulter
+667,John,Zara,john.zara@gmail.com,55,2963745,6791,1161212,581,luxury vacations,15,3,498,true,Rejected: Past Defaulter
+668,Kwame,Aisha,kwame.aisha@gmail.com,20,3062082,8492,2377535,656,medical expenses,26,5,544,true,Rejected: Past Defaulter
+669,Mary,Jabari,mary.jabari@gmail.com,39,3163128,7358,2903392,584,higher education,14,6,584,false,Approved
+670,John,Zara,john.zara@gmail.com,44,3030614,4874,87556,887,higher education,23,1,454,true,Rejected: No Guarantors
+671,Kwame,Chidi,kwame.chidi@gmail.com,38,3076675,3014,622047,532,travel expenses,30,1,578,true,Rejected: No Guarantors
+672,Kwame,Simba,kwame.simba@gmail.com,57,2868897,4467,193425,666,higher education,8,3,613,false,Approved
+673,Amina,Sade,amina.sade@gmail.com,12,3151997,6823,2628121,754,investing in stocks,5,5,664,true,Rejected: Past Defaulter
+674,Amina,Sade,amina.sade@gmail.com,6,2997245,6229,1187142,657,travel expenses,6,4,211,false,Rejected: Bad Guarantors
+675,Mary,Simba,mary.simba@gmail.com,29,3091559,5982,1449102,819,charitable donations,6,3,506,true,Rejected: Past Defaulter
+676,Mary,Aisha,mary.aisha@gmail.com,109,3030063,9571,1228193,606,travel expenses,7,6,669,false,Approved
+677,Mary,Zara,mary.zara@gmail.com,106,2998291,7569,2159809,624,investing in stocks,6,5,523,true,Rejected: Past Defaulter
+678,John,Laila,john.laila@gmail.com,120,2852823,6199,1673286,656,investing in stocks,25,1,775,false,Rejected: No Guarantors
+679,Wanjiku,Obi,wanjiku.obi@gmail.com,87,3128866,1548,1677298,617,charitable donations,8,5,328,true,Rejected: Bad Guarantors
+680,Wanjiku,Jabari,wanjiku.jabari@gmail.com,76,2983418,5471,569431,597,paying off debt,29,5,550,true,Rejected: Past Defaulter
+681,Kwame,Chidi,kwame.chidi@gmail.com,9,3118210,8374,186200,704,investing in stocks,12,2,731,false,Approved
+682,John,Laila,john.laila@gmail.com,110,2929619,7736,1851912,470,charitable donations,13,5,687,false,Approved
+683,David,Aisha,david.aisha@gmail.com,44,2862555,9635,518670,650,travel expenses,29,1,414,true,Rejected: No Guarantors
+684,John,Nia,john.nia@gmail.com,13,2992026,7321,2641182,582,paying off debt,24,2,716,true,Rejected: Past Defaulter
+685,David,Obi,david.obi@gmail.com,107,3008469,2698,2773558,718,paying off debt,23,3,304,false,Rejected: Bad Guarantors
+686,Kwame,Laila,kwame.laila@gmail.com,116,3172566,6671,184404,742,travel expenses,11,3,644,false,Approved
+687,Amina,Simba,amina.simba@gmail.com,84,2895044,2005,381065,670,higher education,14,3,725,false,Approved
+688,John,Simba,john.simba@gmail.com,116,2883474,6141,2941776,533,investing in stocks,22,4,530,true,Rejected: Past Defaulter
+689,Mary,Obi,mary.obi@gmail.com,10,3075341,5580,651350,565,higher education,10,2,585,true,Rejected: Past Defaulter
+690,Amina,Kwame,amina.kwame@gmail.com,19,2830450,9996,1636168,810,travel expenses,12,1,884,true,Rejected: No Guarantors
+691,Kwame,Zara,kwame.zara@gmail.com,116,3035066,9574,719468,861,investing in stocks,16,2,524,true,Rejected: Past Defaulter
+692,John,Obi,john.obi@gmail.com,76,2863067,6549,1426143,651,paying off debt,12,4,728,false,Approved
+693,Amina,Jabari,amina.jabari@gmail.com,8,2879282,1461,844704,614,paying off debt,18,3,562,true,Rejected: Past Defaulter
+694,Kwame,Kwame,kwame.kwame@gmail.com,77,3195630,1466,1387339,529,higher education,1,4,431,true,Rejected: Past Defaulter
+695,John,Laila,john.laila@gmail.com,58,2839836,2469,1597237,719,charitable donations,15,6,575,true,Rejected: Past Defaulter
+696,John,Sade,john.sade@gmail.com,115,3111423,2599,1491052,605,paying off debt,32,4,327,true,Rejected: Bad Guarantors
+697,David,Obi,david.obi@gmail.com,81,3010076,3463,2151984,710,investing in stocks,27,2,738,true,Rejected: Past Defaulter
+698,David,Kwame,david.kwame@gmail.com,64,3025199,9704,2451449,535,medical expenses,34,6,614,true,Rejected: Past Defaulter
+699,Mary,Sade,mary.sade@gmail.com,29,3191208,6550,2468711,672,travel expenses,6,2,768,false,Approved
+700,Kwame,Nia,kwame.nia@gmail.com,71,2979239,8045,1071090,577,buying a car,10,4,54,false,Rejected: Bad Guarantors
+701,Kwame,Zara,kwame.zara@gmail.com,13,2926545,3652,691036,741,travel expenses,20,4,496,false,Approved
+702,Amina,Kwame,amina.kwame@gmail.com,73,2836236,7985,1998845,811,investing in stocks,11,1,549,true,Rejected: No Guarantors
+703,John,Laila,john.laila@gmail.com,40,2884412,8444,1040692,407,medical expenses,12,2,324,false,Rejected: Bad Guarantors
+704,John,Kwame,john.kwame@gmail.com,105,3229518,5719,2301421,605,starting a business,21,5,733,true,Rejected: Past Defaulter
+705,John,Aisha,john.aisha@gmail.com,72,3005696,7950,1008568,606,travel expenses,36,6,734,true,Rejected: Past Defaulter
+706,Kwame,Laila,kwame.laila@gmail.com,108,2921355,9614,2584643,684,travel expenses,13,1,538,false,Rejected: No Guarantors
+707,Mary,Chidi,mary.chidi@gmail.com,88,2975238,9039,1627999,735,higher education,18,5,604,false,Approved
+708,Amina,Chidi,amina.chidi@gmail.com,103,2957352,6963,1264048,814,starting a business,33,3,468,true,Rejected: Past Defaulter
+709,David,Chidi,david.chidi@gmail.com,98,3105005,8433,1120903,676,home renovation,21,5,836,true,Rejected: Past Defaulter
+710,Mary,Zara,mary.zara@gmail.com,19,3045821,4314,2833925,620,luxury vacations,32,3,466,false,Approved
+711,Mary,Chidi,mary.chidi@gmail.com,22,3054799,3093,1763791,567,medical expenses,30,6,822,true,Rejected: Past Defaulter
+712,John,Zara,john.zara@gmail.com,34,2973525,9717,379484,665,travel expenses,1,6,688,false,Approved
+713,Wanjiku,Simba,wanjiku.simba@gmail.com,62,3114361,5665,1776800,603,luxury vacations,11,6,601,true,Rejected: Past Defaulter
+714,Mary,Jabari,mary.jabari@gmail.com,73,2877240,2329,1487002,679,investing in stocks,6,4,592,true,Rejected: Past Defaulter
+715,Amina,Sade,amina.sade@gmail.com,96,2959728,7680,1410364,512,paying off debt,7,4,461,true,Rejected: Past Defaulter
+716,Amina,Obi,amina.obi@gmail.com,120,2940853,4128,2938339,835,paying off debt,33,3,519,false,Approved
+717,Kwame,Laila,kwame.laila@gmail.com,94,3046865,9053,2219854,726,charitable donations,8,2,566,true,Rejected: Past Defaulter
+718,Wanjiku,Laila,wanjiku.laila@gmail.com,57,2863629,2521,339534,665,medical expenses,2,2,722,false,Approved
+719,John,Chidi,john.chidi@gmail.com,70,3038786,8402,2348597,473,luxury vacations,19,3,977,true,Rejected: Past Defaulter
+720,Wanjiku,Obi,wanjiku.obi@gmail.com,58,3095380,9219,1485074,703,medical expenses,12,3,754,false,Approved
+721,John,Sade,john.sade@gmail.com,96,3081094,6607,620597,664,charitable donations,7,5,569,true,Rejected: Past Defaulter
+722,Wanjiku,Obi,wanjiku.obi@gmail.com,90,3018768,9991,1899064,528,charitable donations,7,4,748,false,Approved
+723,Wanjiku,Kwame,wanjiku.kwame@gmail.com,72,3064229,4976,2578921,630,paying off debt,34,5,818,true,Rejected: Past Defaulter
+724,John,Laila,john.laila@gmail.com,119,3030138,9550,928575,794,charitable donations,12,3,809,false,Approved
+725,Wanjiku,Chidi,wanjiku.chidi@gmail.com,109,3047408,2283,1400402,610,investing in stocks,34,4,690,false,Approved
+726,Kwame,Zara,kwame.zara@gmail.com,66,2814126,1137,686264,659,charitable donations,29,3,525,false,Approved
+727,Kwame,Sade,kwame.sade@gmail.com,98,3115198,7675,992314,600,starting a business,23,6,586,true,Rejected: Past Defaulter
+728,Mary,Kwame,mary.kwame@gmail.com,102,2910949,3416,768927,691,medical expenses,32,5,478,true,Rejected: Past Defaulter
+729,Kwame,Nia,kwame.nia@gmail.com,16,2919433,2669,1020532,626,buying a car,7,2,690,true,Rejected: Past Defaulter
+730,Kwame,Chidi,kwame.chidi@gmail.com,7,3111568,4547,356175,583,investing in stocks,29,5,757,true,Rejected: Past Defaulter
+731,John,Chidi,john.chidi@gmail.com,68,3132484,9466,2069560,877,buying a car,4,1,654,false,Rejected: No Guarantors
+732,David,Aisha,david.aisha@gmail.com,111,2987032,6668,2225403,573,investing in stocks,27,3,575,true,Rejected: Past Defaulter
+733,John,Jabari,john.jabari@gmail.com,74,3098777,9258,1333455,502,buying a car,10,1,539,false,Rejected: No Guarantors
+734,Kwame,Obi,kwame.obi@gmail.com,80,2790940,3148,1985673,812,higher education,11,5,533,false,Approved
+735,Amina,Nia,amina.nia@gmail.com,85,3010809,7417,996574,890,charitable donations,22,2,744,true,Rejected: Past Defaulter
+736,John,Sade,john.sade@gmail.com,120,3094007,8567,144932,690,medical expenses,33,1,368,false,Rejected: No Guarantors
+737,Mary,Obi,mary.obi@gmail.com,45,3230985,4512,2247472,746,higher education,14,5,538,true,Rejected: Past Defaulter
+738,Kwame,Kwame,kwame.kwame@gmail.com,36,2999265,4692,1374933,605,investing in stocks,9,6,637,true,Rejected: Past Defaulter
+739,Wanjiku,Nia,wanjiku.nia@gmail.com,76,3139884,1594,2253481,737,paying off debt,32,4,630,true,Rejected: Past Defaulter
+740,Kwame,Nia,kwame.nia@gmail.com,120,3003957,7883,152398,758,medical expenses,22,6,694,false,Approved
+741,John,Jabari,john.jabari@gmail.com,27,3029438,9525,1792976,659,buying a car,5,2,487,false,Approved
+742,John,Chidi,john.chidi@gmail.com,87,3075193,2814,2487708,485,home renovation,10,1,634,false,Rejected: No Guarantors
+743,David,Chidi,david.chidi@gmail.com,6,2998074,5148,1121837,705,luxury vacations,33,5,692,false,Approved
+744,Amina,Laila,amina.laila@gmail.com,50,3039865,5681,2370070,820,buying a car,3,6,661,true,Rejected: Past Defaulter
+745,Mary,Obi,mary.obi@gmail.com,84,3206052,8619,1712582,670,starting a business,11,3,79,false,Rejected: Bad Guarantors
+746,Mary,Aisha,mary.aisha@gmail.com,52,3054205,9165,2952981,742,investing in stocks,29,6,732,false,Approved
+747,Mary,Chidi,mary.chidi@gmail.com,82,3019514,4037,2426796,798,higher education,20,6,479,false,Approved
+748,David,Simba,david.simba@gmail.com,82,3101773,3062,662482,528,home renovation,7,5,505,false,Approved
+749,Wanjiku,Chidi,wanjiku.chidi@gmail.com,63,3050857,6813,381069,723,buying a car,17,5,678,false,Approved
+750,Kwame,Sade,kwame.sade@gmail.com,116,2996462,8398,1687958,659,higher education,4,5,663,true,Rejected: Past Defaulter
+751,Kwame,Jabari,kwame.jabari@gmail.com,20,2957174,2344,1249232,591,paying off debt,24,4,665,false,Approved
+752,David,Zara,david.zara@gmail.com,20,2872798,1744,2870410,708,higher education,26,2,1042,true,Rejected: Past Defaulter
+753,David,Zara,david.zara@gmail.com,18,2996551,9348,2810201,458,luxury vacations,29,1,792,true,Rejected: No Guarantors
+754,Mary,Zara,mary.zara@gmail.com,54,2903124,2233,2864562,727,luxury vacations,14,1,377,false,Rejected: No Guarantors
+755,David,Zara,david.zara@gmail.com,27,2884600,4637,1298608,430,higher education,7,3,457,true,Rejected: Past Defaulter
+756,Wanjiku,Zara,wanjiku.zara@gmail.com,62,2972881,3190,594094,509,investing in stocks,32,3,520,true,Rejected: Past Defaulter
+757,Amina,Zara,amina.zara@gmail.com,74,3017100,9639,1021172,682,buying a car,23,2,854,true,Rejected: Past Defaulter
+758,John,Chidi,john.chidi@gmail.com,111,2867789,9132,1798625,641,higher education,23,6,842,true,Rejected: Past Defaulter
+759,Kwame,Nia,kwame.nia@gmail.com,103,3152352,1111,715725,549,higher education,34,3,419,true,Rejected: Past Defaulter
+760,Amina,Laila,amina.laila@gmail.com,9,3027499,6540,2934737,579,charitable donations,25,1,726,false,Rejected: No Guarantors
+761,John,Chidi,john.chidi@gmail.com,45,2992881,6941,1427763,520,travel expenses,12,5,511,true,Rejected: Past Defaulter
+762,Amina,Simba,amina.simba@gmail.com,34,3071192,4358,470479,626,paying off debt,31,2,853,true,Rejected: Past Defaulter
+763,Kwame,Zara,kwame.zara@gmail.com,47,3028685,8334,778996,640,higher education,28,6,766,false,Approved
+764,John,Sade,john.sade@gmail.com,11,2894530,4442,1032480,645,medical expenses,17,3,687,true,Rejected: Past Defaulter
+765,Wanjiku,Chidi,wanjiku.chidi@gmail.com,19,2956865,6986,857300,690,travel expenses,2,4,752,false,Approved
+766,Kwame,Kwame,kwame.kwame@gmail.com,63,3045341,2397,984282,562,charitable donations,15,2,465,false,Approved
+767,Amina,Kwame,amina.kwame@gmail.com,10,2943610,1538,714800,487,charitable donations,28,1,740,true,Rejected: No Guarantors
+768,Kwame,Chidi,kwame.chidi@gmail.com,94,3015685,3636,120642,670,starting a business,20,1,636,false,Rejected: No Guarantors
+769,David,Sade,david.sade@gmail.com,52,2929712,1974,2774014,582,luxury vacations,5,1,489,false,Rejected: No Guarantors
+770,John,Zara,john.zara@gmail.com,92,3035683,2858,2282195,607,home renovation,12,3,327,true,Rejected: Bad Guarantors
+771,Wanjiku,Chidi,wanjiku.chidi@gmail.com,101,3054486,2110,2030642,743,investing in stocks,10,3,691,true,Rejected: Past Defaulter
+772,Wanjiku,Chidi,wanjiku.chidi@gmail.com,37,2883253,9105,1137604,541,charitable donations,7,3,298,false,Rejected: Bad Guarantors
+773,Wanjiku,Zara,wanjiku.zara@gmail.com,108,3020431,2171,241056,770,luxury vacations,26,5,794,true,Rejected: Past Defaulter
+774,Mary,Zara,mary.zara@gmail.com,72,2912835,4533,2002801,677,starting a business,12,4,918,true,Rejected: Past Defaulter
+775,Amina,Simba,amina.simba@gmail.com,96,3050242,3312,734970,680,travel expenses,30,5,359,true,Rejected: Bad Guarantors
+776,Mary,Nia,mary.nia@gmail.com,78,2940965,4367,1440858,615,paying off debt,9,4,776,false,Approved
+777,David,Simba,david.simba@gmail.com,40,2949749,8161,1962447,558,charitable donations,10,6,699,false,Approved
+778,John,Obi,john.obi@gmail.com,96,3049988,1912,295927,605,starting a business,31,5,475,false,Approved
+779,Wanjiku,Zara,wanjiku.zara@gmail.com,96,2881327,2870,2599729,626,buying a car,6,6,511,false,Approved
+780,Mary,Nia,mary.nia@gmail.com,13,2993730,1005,2330919,614,buying a car,25,6,661,false,Approved
+781,Mary,Nia,mary.nia@gmail.com,89,2931472,9307,221682,785,investing in stocks,20,3,790,true,Rejected: Past Defaulter
+782,David,Kwame,david.kwame@gmail.com,16,2945132,7259,369439,365,travel expenses,30,2,662,true,Rejected: Past Defaulter
+783,John,Aisha,john.aisha@gmail.com,30,3006665,6321,1264142,553,paying off debt,9,4,547,false,Approved
+784,David,Aisha,david.aisha@gmail.com,19,2913688,8109,1129685,458,investing in stocks,21,2,206,true,Rejected: Bad Guarantors
+785,Wanjiku,Obi,wanjiku.obi@gmail.com,31,3135697,5896,2072750,718,travel expenses,29,2,548,true,Rejected: Past Defaulter
+786,Amina,Aisha,amina.aisha@gmail.com,33,2871508,4509,831258,857,travel expenses,14,3,695,false,Approved
+787,John,Aisha,john.aisha@gmail.com,114,2952974,8889,775948,497,paying off debt,9,5,676,true,Rejected: Past Defaulter
+788,Amina,Sade,amina.sade@gmail.com,30,2872778,3655,1332800,827,charitable donations,24,5,429,false,Approved
+789,Wanjiku,Aisha,wanjiku.aisha@gmail.com,53,3035561,5946,243836,691,home renovation,29,1,393,true,Rejected: No Guarantors
+790,Mary,Obi,mary.obi@gmail.com,19,2973344,4698,2126646,780,medical expenses,36,6,766,false,Approved
+791,John,Chidi,john.chidi@gmail.com,80,3106459,7754,1605790,573,higher education,6,6,666,false,Approved
+792,David,Simba,david.simba@gmail.com,22,3243704,1711,487573,726,home renovation,24,2,812,true,Rejected: Past Defaulter
+793,David,Kwame,david.kwame@gmail.com,43,3009333,3139,1437403,430,charitable donations,18,5,582,true,Rejected: Past Defaulter
+794,Wanjiku,Kwame,wanjiku.kwame@gmail.com,72,2982994,6194,883391,679,investing in stocks,34,6,611,false,Approved
+795,David,Chidi,david.chidi@gmail.com,18,3015704,3345,239206,684,home renovation,28,3,772,true,Rejected: Past Defaulter
+796,Mary,Zara,mary.zara@gmail.com,80,3066517,2427,1332796,583,buying a car,8,1,430,false,Rejected: No Guarantors
+797,Mary,Laila,mary.laila@gmail.com,39,3039568,5728,2247070,373,travel expenses,36,5,628,false,Rejected: Poor Credit score
+798,David,Aisha,david.aisha@gmail.com,114,3015098,8316,2080295,667,buying a car,7,5,552,false,Approved
+799,John,Zara,john.zara@gmail.com,6,2760436,6602,1676962,455,starting a business,36,4,461,false,Approved
+800,Amina,Simba,amina.simba@gmail.com,7,3128328,6143,1086530,564,buying a car,11,5,538,true,Rejected: Past Defaulter
+801,Kwame,Kwame,kwame.kwame@gmail.com,27,2995005,9836,924536,630,higher education,20,2,574,true,Rejected: Past Defaulter
+802,David,Laila,david.laila@gmail.com,110,3157920,2227,829050,688,buying a car,29,6,818,true,Rejected: Past Defaulter
+803,Kwame,Aisha,kwame.aisha@gmail.com,105,3070250,9669,2174210,689,investing in stocks,18,3,548,true,Rejected: Past Defaulter
+804,Mary,Nia,mary.nia@gmail.com,109,2923074,7515,81252,731,travel expenses,3,3,671,true,Rejected: Past Defaulter
+805,Kwame,Kwame,kwame.kwame@gmail.com,42,3097989,5016,497787,747,travel expenses,22,2,590,false,Approved
+806,John,Chidi,john.chidi@gmail.com,51,3000542,9624,337454,403,higher education,8,5,579,false,Rejected: Poor Credit score
+807,Amina,Zara,amina.zara@gmail.com,68,3085555,6034,1514724,748,higher education,9,4,975,false,Approved
+808,John,Jabari,john.jabari@gmail.com,31,2990748,1468,397958,705,home renovation,11,2,465,true,Rejected: Past Defaulter
+809,Mary,Simba,mary.simba@gmail.com,67,2964785,9438,2940743,598,charitable donations,20,1,624,false,Rejected: No Guarantors
+810,Amina,Kwame,amina.kwame@gmail.com,114,3102437,4836,2558656,585,medical expenses,12,4,436,false,Approved
+811,Amina,Zara,amina.zara@gmail.com,98,2922184,9073,892852,552,luxury vacations,31,3,326,false,Rejected: Bad Guarantors
+812,Mary,Nia,mary.nia@gmail.com,65,2981024,6249,2401622,640,travel expenses,20,2,830,true,Rejected: Past Defaulter
+813,David,Kwame,david.kwame@gmail.com,104,3058769,1663,1528668,469,luxury vacations,24,4,297,true,Rejected: Bad Guarantors
+814,Mary,Kwame,mary.kwame@gmail.com,53,3024170,2622,2365346,382,charitable donations,27,4,556,false,Rejected: Poor Credit score
+815,David,Zara,david.zara@gmail.com,93,2880900,8881,2154339,763,travel expenses,15,1,449,true,Rejected: No Guarantors
+816,Amina,Sade,amina.sade@gmail.com,12,3051215,2450,1555982,599,home renovation,21,2,491,true,Rejected: Past Defaulter
+817,David,Sade,david.sade@gmail.com,44,2996579,2031,2567872,397,higher education,23,5,567,true,Rejected: Past Defaulter
+818,David,Jabari,david.jabari@gmail.com,95,2904590,4268,2092170,445,charitable donations,10,3,843,false,Rejected: Poor Credit score
+819,Wanjiku,Simba,wanjiku.simba@gmail.com,45,3142445,2621,893547,656,starting a business,3,3,383,true,Rejected: Bad Guarantors
+820,Amina,Obi,amina.obi@gmail.com,59,2829117,7464,2364158,628,investing in stocks,31,6,634,false,Approved
+821,Kwame,Obi,kwame.obi@gmail.com,67,2941014,6717,2542760,554,higher education,2,2,521,true,Rejected: Past Defaulter
+822,John,Zara,john.zara@gmail.com,73,2887884,4399,783345,694,investing in stocks,11,5,804,true,Rejected: Past Defaulter
+823,Kwame,Sade,kwame.sade@gmail.com,31,2998566,8352,858368,634,luxury vacations,13,5,410,false,Approved
+824,John,Jabari,john.jabari@gmail.com,43,3062779,1031,442259,804,starting a business,25,3,663,false,Approved
+825,John,Nia,john.nia@gmail.com,120,3088013,6173,2414891,652,starting a business,11,2,868,false,Approved
+826,Mary,Kwame,mary.kwame@gmail.com,7,2887207,2108,2584661,503,home renovation,33,4,562,true,Rejected: Past Defaulter
+827,Mary,Jabari,mary.jabari@gmail.com,23,3015032,9643,344852,606,travel expenses,12,1,469,true,Rejected: No Guarantors
+828,Kwame,Chidi,kwame.chidi@gmail.com,27,2920702,3156,2754677,724,higher education,15,4,603,true,Rejected: Past Defaulter
+829,Amina,Chidi,amina.chidi@gmail.com,56,3035700,1937,1534484,786,higher education,14,3,479,true,Rejected: Past Defaulter
+830,Amina,Laila,amina.laila@gmail.com,35,3062786,6861,725694,599,buying a car,10,5,765,false,Approved
+831,David,Laila,david.laila@gmail.com,97,2907637,4719,1557091,613,luxury vacations,36,6,376,false,Rejected: Bad Guarantors
+832,Mary,Jabari,mary.jabari@gmail.com,64,3195546,5547,1850441,364,luxury vacations,14,3,688,true,Rejected: Past Defaulter
+833,Kwame,Simba,kwame.simba@gmail.com,11,2955699,6220,2768623,646,higher education,6,6,654,true,Rejected: Past Defaulter
+834,Kwame,Sade,kwame.sade@gmail.com,69,2992270,1092,1918247,683,starting a business,24,3,364,false,Rejected: Bad Guarantors
+835,Amina,Aisha,amina.aisha@gmail.com,81,3048368,9387,123817,603,paying off debt,29,6,657,false,Approved
+836,John,Simba,john.simba@gmail.com,15,2739868,2005,2867365,595,luxury vacations,9,4,836,true,Rejected: Past Defaulter
+837,Mary,Chidi,mary.chidi@gmail.com,7,2749758,9805,650731,741,starting a business,11,6,355,true,Rejected: Bad Guarantors
+838,John,Zara,john.zara@gmail.com,47,3148740,6192,679558,595,medical expenses,33,3,954,true,Rejected: Past Defaulter
+839,Mary,Chidi,mary.chidi@gmail.com,47,3012003,2983,2973663,719,luxury vacations,16,2,722,true,Rejected: Past Defaulter
+840,Wanjiku,Simba,wanjiku.simba@gmail.com,116,2862163,8761,2663772,583,luxury vacations,23,6,654,true,Rejected: Past Defaulter
+841,Wanjiku,Nia,wanjiku.nia@gmail.com,36,3116112,7329,368438,605,starting a business,7,5,552,false,Approved
+842,Wanjiku,Laila,wanjiku.laila@gmail.com,25,2957022,4911,690145,585,buying a car,26,4,596,false,Approved
+843,Amina,Kwame,amina.kwame@gmail.com,80,3100633,9748,2663900,702,paying off debt,3,3,309,true,Rejected: Bad Guarantors
+844,Mary,Laila,mary.laila@gmail.com,70,2785194,4942,793801,741,medical expenses,22,4,982,true,Rejected: Past Defaulter
+845,Kwame,Jabari,kwame.jabari@gmail.com,30,2944949,3625,102147,460,starting a business,9,5,475,true,Rejected: Past Defaulter
+846,John,Zara,john.zara@gmail.com,94,3053170,1765,2272292,561,starting a business,4,3,594,true,Rejected: Past Defaulter
+847,Kwame,Jabari,kwame.jabari@gmail.com,80,3048223,2869,2921055,659,home renovation,7,1,324,true,Rejected: No Guarantors
+848,Kwame,Zara,kwame.zara@gmail.com,57,3275728,5293,558121,531,luxury vacations,28,6,722,false,Approved
+849,John,Jabari,john.jabari@gmail.com,80,3037703,2272,991288,841,starting a business,29,2,582,false,Approved
+850,John,Aisha,john.aisha@gmail.com,108,2912654,2055,2597367,603,travel expenses,29,4,750,true,Rejected: Past Defaulter
+851,John,Jabari,john.jabari@gmail.com,75,3034407,7438,1787566,759,paying off debt,1,6,627,false,Approved
+852,Mary,Simba,mary.simba@gmail.com,80,3053729,1243,643993,659,investing in stocks,24,6,799,true,Rejected: Past Defaulter
+853,David,Zara,david.zara@gmail.com,56,3034382,2129,350057,706,paying off debt,26,4,597,false,Approved
+854,Amina,Sade,amina.sade@gmail.com,15,2953806,3131,2241324,639,luxury vacations,31,3,646,false,Approved
+855,Amina,Obi,amina.obi@gmail.com,116,3022295,8457,180901,754,medical expenses,5,5,517,false,Approved
+856,John,Obi,john.obi@gmail.com,114,3205307,1462,1219272,661,investing in stocks,2,1,497,true,Rejected: No Guarantors
+857,Wanjiku,Nia,wanjiku.nia@gmail.com,59,3041301,3143,2007486,692,higher education,30,5,462,true,Rejected: Past Defaulter
+858,Kwame,Laila,kwame.laila@gmail.com,85,3116671,3023,935288,690,medical expenses,24,2,750,true,Rejected: Past Defaulter
+859,Kwame,Obi,kwame.obi@gmail.com,85,3022044,9987,1703701,503,luxury vacations,14,1,777,false,Rejected: No Guarantors
+860,Amina,Kwame,amina.kwame@gmail.com,6,2939498,2421,2115381,703,investing in stocks,8,3,479,false,Approved
+861,Kwame,Laila,kwame.laila@gmail.com,73,3157526,6180,2173836,620,higher education,31,3,641,false,Approved
+862,Kwame,Obi,kwame.obi@gmail.com,75,2954822,1379,2337037,650,paying off debt,15,2,530,true,Rejected: Past Defaulter
+863,David,Laila,david.laila@gmail.com,117,2932265,1197,474898,665,higher education,13,3,629,true,Rejected: Past Defaulter
+864,Kwame,Obi,kwame.obi@gmail.com,61,2975086,3116,2654684,689,charitable donations,22,2,641,false,Approved
+865,Amina,Chidi,amina.chidi@gmail.com,27,2921030,3489,2379999,785,paying off debt,5,4,693,true,Rejected: Past Defaulter
+866,Amina,Aisha,amina.aisha@gmail.com,41,3096457,5161,411109,487,investing in stocks,13,3,720,true,Rejected: Past Defaulter
+867,Mary,Obi,mary.obi@gmail.com,65,3130785,7874,1171876,717,medical expenses,34,2,782,true,Rejected: Past Defaulter
+868,Amina,Obi,amina.obi@gmail.com,70,3135374,1276,672381,807,starting a business,12,5,647,true,Rejected: Past Defaulter
+869,Mary,Zara,mary.zara@gmail.com,55,3063812,6079,1694351,487,buying a car,25,4,537,false,Approved
+870,Wanjiku,Sade,wanjiku.sade@gmail.com,58,3102130,3997,590588,664,luxury vacations,4,5,739,true,Rejected: Past Defaulter
+871,John,Laila,john.laila@gmail.com,11,2839133,9168,1875415,622,higher education,24,6,465,true,Rejected: Past Defaulter
+872,David,Jabari,david.jabari@gmail.com,15,3024613,3568,1702824,524,paying off debt,24,6,381,false,Rejected: Bad Guarantors
+873,John,Chidi,john.chidi@gmail.com,99,2944511,2665,2212493,740,home renovation,7,4,788,false,Approved
+874,Kwame,Zara,kwame.zara@gmail.com,46,3079849,7161,95128,633,starting a business,3,5,626,true,Rejected: Past Defaulter
+875,John,Chidi,john.chidi@gmail.com,116,3066349,8928,496105,650,investing in stocks,22,3,476,false,Approved
+876,David,Obi,david.obi@gmail.com,112,3010418,3478,608568,799,charitable donations,34,6,716,false,Approved
+877,Amina,Obi,amina.obi@gmail.com,16,3065089,8147,794557,661,investing in stocks,30,1,568,true,Rejected: No Guarantors
+878,Wanjiku,Aisha,wanjiku.aisha@gmail.com,16,2752433,5876,643746,690,home renovation,36,1,647,true,Rejected: No Guarantors
+879,Kwame,Aisha,kwame.aisha@gmail.com,106,2915851,6591,2625689,594,travel expenses,15,5,667,true,Rejected: Past Defaulter
+880,Amina,Laila,amina.laila@gmail.com,108,2755365,1190,869449,693,travel expenses,17,3,704,true,Rejected: Past Defaulter
+881,David,Obi,david.obi@gmail.com,31,3056104,7851,638469,739,medical expenses,18,4,787,false,Approved
+882,Amina,Obi,amina.obi@gmail.com,82,3173848,3450,1199365,716,paying off debt,9,5,897,false,Approved
+883,Amina,Sade,amina.sade@gmail.com,95,3080249,2939,676014,550,charitable donations,20,2,410,false,Approved
+884,Mary,Zara,mary.zara@gmail.com,119,2995939,2538,1827113,680,higher education,16,1,466,false,Rejected: No Guarantors
+885,John,Sade,john.sade@gmail.com,109,2975400,4919,2142339,475,paying off debt,18,3,338,true,Rejected: Bad Guarantors
+886,Mary,Zara,mary.zara@gmail.com,22,2984295,6020,2177066,634,home renovation,3,1,764,true,Rejected: No Guarantors
+887,Amina,Simba,amina.simba@gmail.com,63,2966399,8590,2254399,650,luxury vacations,15,1,636,true,Rejected: No Guarantors
+888,David,Chidi,david.chidi@gmail.com,117,2913819,2670,2958044,740,medical expenses,27,2,356,true,Rejected: Bad Guarantors
+889,David,Kwame,david.kwame@gmail.com,48,3138974,6801,2315341,547,travel expenses,23,2,427,false,Approved
+890,David,Nia,david.nia@gmail.com,116,2962716,5430,2632674,640,higher education,24,6,631,true,Rejected: Past Defaulter
+891,Amina,Kwame,amina.kwame@gmail.com,48,2958413,5335,57335,681,starting a business,15,6,812,false,Approved
+892,Kwame,Chidi,kwame.chidi@gmail.com,72,3052678,1475,1968646,525,travel expenses,6,3,768,false,Approved
+893,David,Sade,david.sade@gmail.com,76,2953320,3109,1678999,755,buying a car,7,4,374,false,Rejected: Bad Guarantors
+894,John,Aisha,john.aisha@gmail.com,89,2944857,3592,503520,719,luxury vacations,25,3,625,true,Rejected: Past Defaulter
+895,Wanjiku,Aisha,wanjiku.aisha@gmail.com,64,3037443,6897,2904991,626,higher education,27,4,583,false,Approved
+896,John,Laila,john.laila@gmail.com,64,2958480,2422,1985128,469,paying off debt,6,3,337,true,Rejected: Bad Guarantors
+897,Mary,Aisha,mary.aisha@gmail.com,27,3143064,4575,1197205,682,paying off debt,6,5,411,true,Rejected: Past Defaulter
+898,David,Obi,david.obi@gmail.com,54,2957764,6249,292085,673,investing in stocks,35,6,369,false,Rejected: Bad Guarantors
+899,David,Zara,david.zara@gmail.com,50,2775830,9955,2560589,776,investing in stocks,3,1,706,false,Rejected: No Guarantors
+900,Amina,Simba,amina.simba@gmail.com,105,2997692,5785,1242712,634,starting a business,10,5,525,true,Rejected: Past Defaulter
+901,Mary,Aisha,mary.aisha@gmail.com,57,3029768,6255,2720223,578,luxury vacations,22,2,588,true,Rejected: Past Defaulter
+902,Wanjiku,Aisha,wanjiku.aisha@gmail.com,85,2929110,8903,2822854,901,buying a car,5,1,792,false,Rejected: No Guarantors
+903,Kwame,Laila,kwame.laila@gmail.com,112,3047767,3500,1684468,694,luxury vacations,36,3,466,true,Rejected: Past Defaulter
+904,Amina,Aisha,amina.aisha@gmail.com,75,3032235,3707,155037,812,buying a car,24,1,691,false,Rejected: No Guarantors
+905,Amina,Aisha,amina.aisha@gmail.com,111,3089831,4980,2455542,656,travel expenses,16,1,420,true,Rejected: No Guarantors
+906,Wanjiku,Obi,wanjiku.obi@gmail.com,40,2949488,3144,1890919,787,home renovation,2,3,801,false,Approved
+907,Wanjiku,Zara,wanjiku.zara@gmail.com,55,2892871,5851,417673,753,travel expenses,13,1,839,false,Rejected: No Guarantors
+908,John,Sade,john.sade@gmail.com,103,2949831,2274,2524494,457,starting a business,1,3,454,false,Approved
+909,Kwame,Chidi,kwame.chidi@gmail.com,48,2865812,4469,1928690,700,luxury vacations,17,4,703,true,Rejected: Past Defaulter
+910,David,Jabari,david.jabari@gmail.com,20,2873334,2348,2698394,581,medical expenses,34,5,941,true,Rejected: Past Defaulter
+911,Amina,Sade,amina.sade@gmail.com,99,2942669,2243,2953593,842,luxury vacations,2,2,743,true,Rejected: Past Defaulter
+912,Wanjiku,Sade,wanjiku.sade@gmail.com,10,2975378,3079,2859799,842,charitable donations,4,4,583,false,Approved
+913,Mary,Simba,mary.simba@gmail.com,119,2892395,2044,326863,697,starting a business,20,1,501,false,Rejected: No Guarantors
+914,Mary,Sade,mary.sade@gmail.com,35,3091207,6765,574857,717,starting a business,20,5,393,false,Rejected: Bad Guarantors
+915,Kwame,Kwame,kwame.kwame@gmail.com,10,2945990,7550,2119893,523,medical expenses,2,5,539,false,Approved
+916,Amina,Sade,amina.sade@gmail.com,105,2999651,6502,213152,670,investing in stocks,9,6,584,true,Rejected: Past Defaulter
+917,Kwame,Sade,kwame.sade@gmail.com,64,2987991,9975,1706398,441,higher education,35,5,475,true,Rejected: Past Defaulter
+918,Wanjiku,Nia,wanjiku.nia@gmail.com,52,2893223,8424,2398539,648,investing in stocks,25,4,765,true,Rejected: Past Defaulter
+919,Amina,Obi,amina.obi@gmail.com,18,2978328,9917,2690053,717,investing in stocks,2,6,684,false,Approved
+920,John,Kwame,john.kwame@gmail.com,96,3033011,1845,987860,694,starting a business,3,4,682,false,Approved
+921,Amina,Nia,amina.nia@gmail.com,20,2968419,1037,52758,670,buying a car,10,3,462,true,Rejected: Past Defaulter
+922,Mary,Laila,mary.laila@gmail.com,75,3113686,2067,2356173,558,paying off debt,31,1,585,true,Rejected: No Guarantors
+923,Kwame,Jabari,kwame.jabari@gmail.com,95,3117232,7307,309412,825,starting a business,26,2,594,false,Approved
+924,Kwame,Simba,kwame.simba@gmail.com,49,3040899,5830,480966,612,buying a car,35,3,485,true,Rejected: Past Defaulter
+925,Kwame,Kwame,kwame.kwame@gmail.com,106,2830842,5751,1598858,641,buying a car,9,4,524,false,Approved
+926,Amina,Aisha,amina.aisha@gmail.com,37,2984695,1348,490385,649,buying a car,13,3,642,false,Approved
+927,John,Kwame,john.kwame@gmail.com,21,3109492,5286,1028108,628,medical expenses,23,4,273,true,Rejected: Bad Guarantors
+928,Kwame,Chidi,kwame.chidi@gmail.com,54,3205484,8523,1082298,629,luxury vacations,7,6,565,false,Approved
+929,John,Chidi,john.chidi@gmail.com,59,2983875,8167,1670624,614,travel expenses,25,1,885,false,Rejected: No Guarantors
+930,David,Simba,david.simba@gmail.com,69,2976175,7430,69238,629,buying a car,34,2,525,true,Rejected: Past Defaulter
+931,David,Obi,david.obi@gmail.com,65,2875981,1053,2550848,691,luxury vacations,31,2,733,false,Approved
+932,John,Laila,john.laila@gmail.com,91,2869926,3506,1311806,829,starting a business,26,3,682,true,Rejected: Past Defaulter
+933,Mary,Sade,mary.sade@gmail.com,115,3004457,6303,321516,741,investing in stocks,34,6,603,true,Rejected: Past Defaulter
+934,Wanjiku,Kwame,wanjiku.kwame@gmail.com,28,2976272,7202,814676,754,home renovation,6,3,482,false,Approved
+935,Amina,Aisha,amina.aisha@gmail.com,97,2828081,3871,141915,530,travel expenses,11,1,519,false,Rejected: No Guarantors
+936,Amina,Simba,amina.simba@gmail.com,74,3059614,4237,587754,495,starting a business,35,6,637,true,Rejected: Past Defaulter
+937,Amina,Chidi,amina.chidi@gmail.com,36,2888367,6849,2449525,787,paying off debt,33,6,701,false,Approved
+938,Wanjiku,Aisha,wanjiku.aisha@gmail.com,18,3141397,6362,391079,596,starting a business,1,1,646,false,Rejected: No Guarantors
+939,John,Chidi,john.chidi@gmail.com,89,3135362,8040,2949545,733,paying off debt,1,5,599,false,Approved
+940,Mary,Chidi,mary.chidi@gmail.com,114,2999551,7731,177613,536,travel expenses,1,2,801,false,Approved
+941,Mary,Sade,mary.sade@gmail.com,36,3091613,9561,489231,375,buying a car,2,3,487,false,Rejected: Poor Credit score
+942,Kwame,Simba,kwame.simba@gmail.com,93,3146283,6455,264831,521,paying off debt,20,3,336,false,Rejected: Bad Guarantors
+943,Wanjiku,Obi,wanjiku.obi@gmail.com,86,3044826,5832,2955107,767,buying a car,28,2,668,true,Rejected: Past Defaulter
+944,Mary,Zara,mary.zara@gmail.com,51,3024629,7335,2121802,556,travel expenses,26,6,718,false,Approved
+945,John,Jabari,john.jabari@gmail.com,69,3008396,1618,2191546,719,higher education,29,5,656,false,Approved
+946,Kwame,Obi,kwame.obi@gmail.com,13,3108886,9245,1983027,587,higher education,27,1,543,false,Rejected: No Guarantors
+947,David,Laila,david.laila@gmail.com,56,3042704,5589,1015196,727,medical expenses,19,1,375,false,Rejected: No Guarantors
+948,John,Simba,john.simba@gmail.com,7,3022355,2843,1116326,583,charitable donations,32,1,411,true,Rejected: No Guarantors
+949,Amina,Sade,amina.sade@gmail.com,81,2947582,1285,2284621,653,charitable donations,16,1,708,true,Rejected: No Guarantors
+950,Kwame,Laila,kwame.laila@gmail.com,98,2991744,3832,1088529,635,investing in stocks,26,1,782,true,Rejected: No Guarantors
+951,John,Nia,john.nia@gmail.com,60,2938413,5798,829409,417,starting a business,5,2,459,true,Rejected: Past Defaulter
+952,Kwame,Obi,kwame.obi@gmail.com,7,2804070,5950,243418,639,home renovation,33,1,412,true,Rejected: No Guarantors
+953,John,Jabari,john.jabari@gmail.com,44,2985821,9736,2604353,762,medical expenses,14,4,869,true,Rejected: Past Defaulter
+954,Amina,Sade,amina.sade@gmail.com,70,2977486,2595,1670812,567,medical expenses,27,2,545,true,Rejected: Past Defaulter
+955,Mary,Simba,mary.simba@gmail.com,33,3088772,2032,1752767,647,investing in stocks,6,1,619,true,Rejected: No Guarantors
+956,Mary,Obi,mary.obi@gmail.com,35,2954910,9297,2247240,736,charitable donations,20,6,461,true,Rejected: Past Defaulter
+957,Mary,Nia,mary.nia@gmail.com,95,2986929,3619,1760979,489,investing in stocks,15,6,654,true,Rejected: Past Defaulter
+958,Mary,Simba,mary.simba@gmail.com,116,2915344,5882,1880373,610,charitable donations,6,5,638,false,Approved
+959,Mary,Simba,mary.simba@gmail.com,29,3003059,1898,2495330,545,luxury vacations,31,3,344,false,Rejected: Bad Guarantors
+960,Amina,Chidi,amina.chidi@gmail.com,12,3103708,6130,320335,699,buying a car,7,1,270,false,Rejected: No Guarantors
+961,David,Obi,david.obi@gmail.com,101,2972335,6755,961796,816,investing in stocks,14,6,1021,false,Approved
+962,John,Laila,john.laila@gmail.com,114,3057354,2841,2679387,858,investing in stocks,29,6,718,true,Rejected: Past Defaulter
+963,John,Jabari,john.jabari@gmail.com,40,2993667,9242,212030,662,paying off debt,4,1,678,false,Rejected: No Guarantors
+964,Mary,Nia,mary.nia@gmail.com,107,2791973,5337,431086,597,luxury vacations,27,1,424,true,Rejected: No Guarantors
+965,Kwame,Nia,kwame.nia@gmail.com,18,2855765,8027,919313,625,luxury vacations,18,1,579,false,Rejected: No Guarantors
+966,David,Aisha,david.aisha@gmail.com,25,3044784,1530,640596,749,investing in stocks,3,3,543,false,Approved
+967,Mary,Aisha,mary.aisha@gmail.com,98,3078454,8052,1705084,670,investing in stocks,29,4,424,false,Approved
+968,Kwame,Obi,kwame.obi@gmail.com,18,3098255,8372,2202383,626,travel expenses,1,3,295,true,Rejected: Bad Guarantors
+969,John,Zara,john.zara@gmail.com,118,2951673,8309,2332438,469,higher education,36,4,808,false,Approved
+970,Wanjiku,Aisha,wanjiku.aisha@gmail.com,60,3117843,5856,2299108,583,investing in stocks,35,6,371,false,Rejected: Bad Guarantors
+971,David,Obi,david.obi@gmail.com,34,2892629,1476,2624765,556,medical expenses,20,4,794,false,Approved
+972,Amina,Chidi,amina.chidi@gmail.com,22,3044795,1475,520177,672,medical expenses,2,2,397,true,Rejected: Bad Guarantors
+973,Kwame,Chidi,kwame.chidi@gmail.com,18,2976345,3711,1834284,600,buying a car,2,2,638,true,Rejected: Past Defaulter
+974,Mary,Chidi,mary.chidi@gmail.com,56,3045378,1883,261226,643,travel expenses,17,1,554,true,Rejected: No Guarantors
+975,Wanjiku,Laila,wanjiku.laila@gmail.com,88,2972011,3061,746407,660,home renovation,34,5,736,false,Approved
+976,Amina,Chidi,amina.chidi@gmail.com,116,3046573,3472,800553,632,travel expenses,31,4,564,false,Approved
+977,David,Kwame,david.kwame@gmail.com,110,2864563,9104,1412282,734,investing in stocks,31,1,536,true,Rejected: No Guarantors
+978,Kwame,Obi,kwame.obi@gmail.com,37,2939250,3146,1774684,629,higher education,36,3,508,false,Approved
+979,Kwame,Zara,kwame.zara@gmail.com,46,2911106,4474,2873518,611,charitable donations,34,2,257,false,Rejected: Bad Guarantors
+980,Wanjiku,Aisha,wanjiku.aisha@gmail.com,87,3100361,5424,1449291,576,home renovation,29,5,793,false,Approved
+981,Mary,Simba,mary.simba@gmail.com,98,2705629,4070,1664010,677,travel expenses,25,6,665,false,Approved
+982,Mary,Laila,mary.laila@gmail.com,87,2962747,3149,1130035,537,buying a car,34,3,623,true,Rejected: Past Defaulter
+983,John,Sade,john.sade@gmail.com,63,3039817,7489,2927640,618,buying a car,4,1,807,false,Rejected: No Guarantors
+984,John,Obi,john.obi@gmail.com,73,3029407,5101,413714,490,buying a car,20,1,503,false,Rejected: No Guarantors
+985,Kwame,Laila,kwame.laila@gmail.com,41,2997564,9421,1018552,582,buying a car,13,6,532,false,Approved
+986,John,Zara,john.zara@gmail.com,69,3041107,3762,255761,793,starting a business,5,2,311,false,Rejected: Bad Guarantors
+987,Kwame,Laila,kwame.laila@gmail.com,39,3055180,6688,1061469,607,paying off debt,3,2,860,false,Approved
+988,John,Simba,john.simba@gmail.com,97,3098828,5051,471158,648,starting a business,3,3,701,false,Approved
+989,Mary,Sade,mary.sade@gmail.com,90,3008293,4961,1064639,737,travel expenses,29,1,618,true,Rejected: No Guarantors
+990,Kwame,Sade,kwame.sade@gmail.com,40,2901836,4377,1612818,554,home renovation,5,1,565,false,Rejected: No Guarantors
+991,John,Jabari,john.jabari@gmail.com,26,2831327,8752,2553396,558,starting a business,3,4,687,true,Rejected: Past Defaulter
+992,Kwame,Kwame,kwame.kwame@gmail.com,101,3065895,6785,196448,781,buying a car,16,1,704,true,Rejected: No Guarantors
+993,John,Obi,john.obi@gmail.com,26,3042249,9382,218884,641,buying a car,24,3,402,true,Rejected: Past Defaulter
+994,Mary,Kwame,mary.kwame@gmail.com,21,2931634,2956,40412,660,paying off debt,35,6,671,true,Rejected: Past Defaulter
+995,David,Kwame,david.kwame@gmail.com,61,2961359,9140,947627,805,luxury vacations,19,3,733,true,Rejected: Past Defaulter
+996,Mary,Chidi,mary.chidi@gmail.com,41,2974702,3894,64262,712,luxury vacations,10,1,341,false,Rejected: No Guarantors
+997,Wanjiku,Zara,wanjiku.zara@gmail.com,87,2965012,1677,2303573,754,starting a business,2,4,597,true,Rejected: Past Defaulter
+998,Mary,Sade,mary.sade@gmail.com,39,3155415,9320,1555383,592,buying a car,23,1,356,true,Rejected: No Guarantors
+999,John,Aisha,john.aisha@gmail.com,114,3098344,5112,1284517,596,buying a car,9,3,375,false,Rejected: Bad Guarantors
+1000,David,Sade,david.sade@gmail.com,80,3089707,6856,732469,697,luxury vacations,7,3,507,false,Approved
