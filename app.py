@@ -122,27 +122,28 @@ if found_member is not None:
     
     with col_input:
         if "loan_input" not in st.session_state:
-            st.session_state.loan_input = 50000
+            st.session_state.loan_input = 50000.0
             
-            
-        # Calculate their theoretical max (3x Savings)
+        # 1. Calculate the Strict Limit (3x Savings)
         max_eligible = savings * 3
         
-        # We allow them to request up to 4x (so they can see the rejection), 
-        # but NOT 1 Billion.
-        hard_limit = max_eligible + (max_eligible * 0.5) # Cap at 4.5x savings
+        # 2. Safety Check: 
+        # Streamlit crashes if max_value < min_value (1000). 
+        # So if they have no savings, we default max to 1000 but the AI will reject it anyway.
+        safe_max = max(max_eligible, 1000.0)
             
         loan_request = st.number_input(
-            f"Enter Loan Amount (Max: {max_eligible:,.0f})", 
+            f"Enter Loan Amount (Limit: KES {max_eligible:,.0f})", 
             min_value=1000.0,
-            max_value=float(hard_limit) if hard_limit > 0 else 1000000.0, # Prevent crash if savings=0
-            step=5000.0, 
-            key="loan_input"
+            max_value=float(safe_max), # 🔒 STRICT LOCK
+            step=5000.0,
+            key="loan_input",
+            help="System strictly limits request to 3x Total Savings."
         )
         
-        # Add a visual hint
-        if loan_request > max_eligible:
-            st.caption(f"⚠️ Note: You are requesting over the 3x limit ({max_eligible:,.0f}).")
+        # 3. Visual Feedback
+        if max_eligible < 1000:
+            st.caption("⚠️ Member has insufficient savings to borrow.")
         
     with col_analyze:
         analyze_btn = st.button("Analyze", type="primary", use_container_width=True)
