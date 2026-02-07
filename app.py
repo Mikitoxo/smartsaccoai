@@ -124,12 +124,25 @@ if found_member is not None:
         if "loan_input" not in st.session_state:
             st.session_state.loan_input = 50000
             
+            
+        # Calculate their theoretical max (3x Savings)
+        max_eligible = savings * 3
+        
+        # We allow them to request up to 4x (so they can see the rejection), 
+        # but NOT 1 Billion.
+        hard_limit = max_eligible + (max_eligible * 0.5) # Cap at 4.5x savings
+            
         loan_request = st.number_input(
-            "Enter Loan Amount (KES)", 
-            min_value=1000, 
-            step=5000, 
+            f"Enter Loan Amount (Max: {max_eligible:,.0f})", 
+            min_value=1000.0,
+            max_value=float(hard_limit) if hard_limit > 0 else 1000000.0, # Prevent crash if savings=0
+            step=5000.0, 
             key="loan_input"
         )
+        
+        # Add a visual hint
+        if loan_request > max_eligible:
+            st.caption(f"⚠️ Note: You are requesting over the 3x limit ({max_eligible:,.0f}).")
         
     with col_analyze:
         analyze_btn = st.button("Analyze", type="primary", use_container_width=True)
