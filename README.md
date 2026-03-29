@@ -4,12 +4,15 @@
 
 ## What
 - An AI agent/LLM that predicts whether a member of a given SACCO is likely to default on a loan based on previous loan history, credit score, and investment amounts.
+- Try it here: https://smartsaccoai.streamlit.app/
+  use name: Elsie Kito and password: password
 
 ## How to run SmartSacco
 #### Prerequisites
 - Python 3.10+
 
 #### steps
+⚠️due to the hosted nature of this project, I have hidden the secrets file, this might thus hinder replication
 1. Clone the repository:
    ```bash
    git clone https://github.com/Mikitoxo/smartsaccoai.git
@@ -25,6 +28,7 @@
    <img width="1298" height="583" alt="image" src="https://github.com/user-attachments/assets/679372f1-c4f5-4741-9066-9731ddb04354" />
 
 ## How it works
+- Authentication: the SACCO manager logs in/ signs up (for demo, use name: Elsie Kito and password: password)
 - Input: User logs in and submits member_id of the Sacco member and amount they want to borrow.
 - Search: Queries the dataset for member data.
 - LLM Analysis: smartsacco_brain_v2.pkl (the model) evaluates eligibility.
